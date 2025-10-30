@@ -1,0 +1,12 @@
+{
+  "title": "Transport",
+  "categories": [
+    "Category:Exploration"
+  ],
+  "templates": [
+    {
+      "name": "PAGENAME",
+      "params": {}
+    }
+  ]
+}

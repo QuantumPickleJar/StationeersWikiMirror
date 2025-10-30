@@ -1,0 +1,12 @@
+{
+  "title": "Rescue",
+  "categories": [
+    "Category:Exploration"
+  ],
+  "templates": [
+    {
+      "name": "PAGENAME",
+      "params": {}
+    }
+  ]
+}

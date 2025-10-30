@@ -1,0 +1,12 @@
+{
+  "title": "Survival",
+  "categories": [
+    "Category:Survival"
+  ],
+  "templates": [
+    {
+      "name": "PAGENAME",
+      "params": {}
+    }
+  ]
+}

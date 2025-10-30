@@ -1,0 +1,12 @@
+{
+  "title": "Sanity",
+  "categories": [
+    "Category:Survival"
+  ],
+  "templates": [
+    {
+      "name": "PAGENAME",
+      "params": {}
+    }
+  ]
+}

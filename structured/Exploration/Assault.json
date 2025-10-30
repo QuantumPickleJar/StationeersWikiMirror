@@ -1,0 +1,12 @@
+{
+  "title": "Assault",
+  "categories": [
+    "Category:Exploration"
+  ],
+  "templates": [
+    {
+      "name": "PAGENAME",
+      "params": {}
+    }
+  ]
+}

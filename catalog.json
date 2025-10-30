@@ -1,0 +1,297 @@
+[
+  {
+    "title": "Stationeers",
+    "categories": [
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Colony",
+    "categories": [
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Current build",
+    "categories": [
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "How to Play Guide for Stationeers",
+    "categories": [
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Planets",
+    "categories": [
+      "Category:Exploration",
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Release date",
+    "categories": [
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Shuttle",
+    "categories": [
+      "Category:Exploration",
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Space station",
+    "categories": [
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "System requirements",
+    "categories": [
+      "Category:Stationeers"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Exploitation",
+    "categories": [
+      "Category:Exploitation"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Character development",
+    "categories": [
+      "Category:Exploitation"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Farming",
+    "categories": [
+      "Category:Exploitation"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Mining",
+    "categories": [
+      "Category:Exploitation"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Random events",
+    "categories": [
+      "Category:Exploitation"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Services",
+    "categories": [
+      "Category:Exploitation"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Exploration",
+    "categories": [
+      "Category:Exploration"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Assault",
+    "categories": [
+      "Category:Exploration"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Repair",
+    "categories": [
+      "Category:Exploration"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Rescue",
+    "categories": [
+      "Category:Exploration"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Resourcing",
+    "categories": [
+      "Category:Exploration"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Scavenging",
+    "categories": [
+      "Category:Exploration"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Transport",
+    "categories": [
+      "Category:Exploration"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Building",
+    "categories": [
+      "Category:Survival"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Survival",
+    "categories": [
+      "Category:Survival"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Damage",
+    "categories": [
+      "Category:Survival"
+    ],
+    "templates": []
+  },
+  {
+    "title": "Hunger",
+    "categories": [
+      "Category:Survival"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Hygiene",
+    "categories": [
+      "Category:Survival"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Sanity",
+    "categories": [
+      "Category:Survival"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  },
+  {
+    "title": "Thirst",
+    "categories": [
+      "Category:Survival"
+    ],
+    "templates": [
+      {
+        "name": "PAGENAME",
+        "params": {}
+      }
+    ]
+  }
+]

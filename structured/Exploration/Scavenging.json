@@ -1,0 +1,12 @@
+{
+  "title": "Scavenging",
+  "categories": [
+    "Category:Exploration"
+  ],
+  "templates": [
+    {
+      "name": "PAGENAME",
+      "params": {}
+    }
+  ]
+}

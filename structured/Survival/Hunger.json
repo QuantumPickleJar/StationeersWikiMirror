@@ -1,0 +1,12 @@
+{
+  "title": "Hunger",
+  "categories": [
+    "Category:Survival"
+  ],
+  "templates": [
+    {
+      "name": "PAGENAME",
+      "params": {}
+    }
+  ]
+}
