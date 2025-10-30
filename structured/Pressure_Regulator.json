@@ -1,0 +1,241 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/Pressure_Regulator",
+  "depth": 0,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Pressure Regulator"
+    },
+    {
+      "level": 2,
+      "text": "Description [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Data Network Properties [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 3,
+      "text": "Data Parameters [ edit ]"
+    },
+    {
+      "level": 5,
+      "text": ""
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Parameter Name",
+        "Data Type",
+        "Access",
+        "Value",
+        "Description"
+      ],
+      "rows": [
+        {
+          "Parameter Name": "Power",
+          "Data Type": "Boolean",
+          "Access": "Read",
+          "Value": "0",
+          "Description": "Unpowered",
+          "col_5": "Can be read to return if the Pressure Regulator is correctly powered or not, set via the power system, return 1 if powered and 0 if not"
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Powered"
+        },
+        {
+          "Parameter Name": "Error",
+          "Data Type": "Boolean",
+          "Access": "Read",
+          "Value": "0",
+          "Description": "",
+          "col_5": "1 if device is in error state, otherwise 0"
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Error"
+        },
+        {
+          "Parameter Name": "Lock",
+          "Data Type": "Boolean",
+          "Access": "Read Write",
+          "Value": "0",
+          "Description": "Unlocked",
+          "col_5": "Disable manual operation of the Pressure Regulator."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Locked"
+        },
+        {
+          "Parameter Name": "Setting",
+          "Data Type": "Integer",
+          "Access": "Read Write",
+          "Value": "0.0 to 60795.0",
+          "Description": "",
+          "col_5": "A variable setting that can be read or written."
+        },
+        {
+          "Parameter Name": "Maximum",
+          "Data Type": "Float",
+          "Access": "Read",
+          "Value": "",
+          "Description": "",
+          "col_5": "Maximum setting of the Pressure Regulator"
+        },
+        {
+          "Parameter Name": "Ratio",
+          "Data Type": "Float",
+          "Access": "Read",
+          "Value": "0.0 to 1.0",
+          "Description": "",
+          "col_5": "Context specific value depending on device, 0 to 1 based ratio"
+        },
+        {
+          "Parameter Name": "On",
+          "Data Type": "Boolean",
+          "Access": "Read Write",
+          "Value": "0",
+          "Description": "Off",
+          "col_5": "The current state of the Pressure Regulator."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "On"
+        },
+        {
+          "Parameter Name": "RequiredPower",
+          "Data Type": "Integer",
+          "Access": "Read",
+          "Value": "",
+          "Description": "",
+          "col_5": "Idle operating power quantity, does not necessarily include extra demand power"
+        },
+        {
+          "Parameter Name": "PrefabHash",
+          "Data Type": "Integer",
+          "Access": "Read",
+          "Value": "",
+          "Description": "",
+          "col_5": "The hash of the structure"
+        },
+        {
+          "Parameter Name": "ReferenceId",
+          "Data Type": "Integer",
+          "Access": "Read",
+          "Value": "",
+          "Description": "",
+          "col_5": "Unique Reference Identifier for this object"
+        },
+        {
+          "Parameter Name": "NameHash",
+          "Data Type": "Integer",
+          "Access": "Read",
+          "Value": "",
+          "Description": "",
+          "col_5": "Provides the hash value for the name of the object as a 32 bit integer."
+        }
+      ]
+    }
+  ],
+  "infobox": {
+    "type": "table",
+    "rows": [
+      {
+        "field": "Power Usage",
+        "value": "100W"
+      },
+      {
+        "field": "Prefab Hash",
+        "value": "209854039"
+      },
+      {
+        "field": "Prefab Name",
+        "value": "StructurePressureRegulator"
+      },
+      {
+        "field": "Placed with",
+        "value": "Kit (Pressure Regulator)"
+      },
+      {
+        "field": "Placed on",
+        "value": "Small Grid"
+      },
+      {
+        "field": "Deconstructed with",
+        "value": "Hand Drill"
+      },
+      {
+        "field": "Item received",
+        "value": "Kit (Pressure Regulator)"
+      }
+    ]
+  },
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "Pressure Regulator",
+    "og:url": "https://stationeers-wiki.com/Pressure_Regulator"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Category:Atmospherics",
+    "https://stationeers-wiki.com/Category:Data_Network",
+    "https://stationeers-wiki.com/Category:Structures",
+    "https://stationeers-wiki.com/File:ItemKitRegulator.png",
+    "https://stationeers-wiki.com/Gas_Canister",
+    "https://stationeers-wiki.com/Gas_Canister_(Smart)",
+    "https://stationeers-wiki.com/Gas_Tank_Storage",
+    "https://stationeers-wiki.com/Hand_Drill",
+    "https://stationeers-wiki.com/Integrated_Circuit_(IC10)",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Batch_Reader",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Batch_Writer",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Logic_Reader",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Logic_Writer",
+    "https://stationeers-wiki.com/Kit_(Pressure_Regulator)",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Pressure_Regulator",
+    "https://stationeers-wiki.com/Special:Categories",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Pressure_Regulator",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Pressure_Regulator",
+    "https://stationeers-wiki.com/Template:Structurebox",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/index.php?title=Pressure_Regulator&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Pressure_Regulator&action=edit&section=1",
+    "https://stationeers-wiki.com/index.php?title=Pressure_Regulator&action=history",
+    "https://stationeers-wiki.com/index.php?title=Pressure_Regulator&action=info",
+    "https://stationeers-wiki.com/index.php?title=Pressure_Regulator&oldid=22781",
+    "https://stationeers-wiki.com/index.php?title=Pressure_Regulator&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Pressure+Regulator",
+    "https://stationeers-wiki.com/index.php?title=Talk:Pressure_Regulator&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Template:Data_Network_Header&action=edit&section=T-1",
+    "https://stationeers-wiki.com/index.php?title=Template:Data_Parameters&action=edit&section=T-1",
+    "https://stationeers-wiki.com/index.php?title=Template:Structurebox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template_talk:Structurebox&action=edit&redlink=1",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\Pressure_Regulator.md",
+    "html": "html\\Pressure_Regulator.html"
+  },
+  "last_scraped": "2025-10-30T04:18:46+00:00"
+}
