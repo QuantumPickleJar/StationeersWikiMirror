@@ -1,0 +1,252 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&oldid=20384",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Kit (Atmospherics) Electrolyzer"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Purpose [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Characteristics [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "User Interface [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Data Network Properties [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "See Also [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 3,
+      "text": "Data Parameters [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Data Outputs [ edit ]"
+    },
+    {
+      "level": 5,
+      "text": "Revision as of 11:22, 30 April 2024 by Emilgardis ( talk | contribs ) ( diff ) ← Older revision | Latest revision (diff) | Newer revision → (diff)"
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Name",
+        "Type",
+        "Function"
+      ],
+      "rows": [
+        {
+          "Name": "On/Off",
+          "Type": "Switch",
+          "Function": "Switches Electrolyzer between turned on or turned off."
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Parameter Name",
+        "Data Type",
+        "Description"
+      ],
+      "rows": [
+        {
+          "Parameter Name": "Lock",
+          "Data Type": "Boolean",
+          "Description": "Locks the Electrolyzer when set to 1. Unlocks it when set to 0."
+        },
+        {
+          "Parameter Name": "On",
+          "Data Type": "Boolean",
+          "Description": "Powers on the Electrolyzer on when set to 1. Powers off when set to 0."
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Output Name",
+        "Data Type",
+        "Description"
+      ],
+      "rows": [
+        {
+          "Output Name": "Power",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Electrolyzer is turned on and receives power. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "Error",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Electrolyzer is flashing an error. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "Lock",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Electrolyzer is locked. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "On",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Electrolyzer is turned on. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "RequiredPower",
+          "Data Type": "Integer",
+          "Description": "Returns the current amount of power in Watts required by the Electrolyzer."
+        }
+      ]
+    }
+  ],
+  "infobox": {
+    "type": "table",
+    "rows": [
+      {
+        "field": "Power Usage",
+        "value": "1200W"
+      },
+      {
+        "field": "Prefab Hash",
+        "value": "-1668992663"
+      },
+      {
+        "field": "Prefab Name",
+        "value": "StructureElectrolyzer"
+      },
+      {
+        "field": "Placed with",
+        "value": "Kit (Atmospherics)"
+      },
+      {
+        "field": "Placed on",
+        "value": "Small Grid"
+      },
+      {
+        "field": "Constructed with item",
+        "value": "2 x Kit (Pipe)"
+      },
+      {
+        "field": "Deconstructed with",
+        "value": "Hand Drill"
+      },
+      {
+        "field": "Item received",
+        "value": "Kit (Atmospherics)"
+      },
+      {
+        "field": "Constructed with tool",
+        "value": "Screwdriver"
+      },
+      {
+        "field": "Constructed with item",
+        "value": "2 x Cable Coil"
+      },
+      {
+        "field": "Deconstructed with",
+        "value": "Wrench"
+      },
+      {
+        "field": "Deconstructed with",
+        "value": "Hand Drill"
+      }
+    ]
+  },
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "robots": "noindex,nofollow",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "Kit (Atmospherics) Electrolyzer",
+    "og:url": "https://stationeers-wiki.com/Kit_(Atmospherics)_Electrolyzer"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Cable_Coil",
+    "https://stationeers-wiki.com/Category:Atmospherics",
+    "https://stationeers-wiki.com/Category:Data_Network",
+    "https://stationeers-wiki.com/Category:Structures",
+    "https://stationeers-wiki.com/Data_Port",
+    "https://stationeers-wiki.com/File:Electrolyzer_front.png",
+    "https://stationeers-wiki.com/Guide_(Electrolyzer)",
+    "https://stationeers-wiki.com/Hand_Drill",
+    "https://stationeers-wiki.com/Integrated_Circuit_(IC10)",
+    "https://stationeers-wiki.com/Kit_(Atmospherics)",
+    "https://stationeers-wiki.com/Kit_(Atmospherics)_Electrolyzer",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Batch_Writer",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Logic_Reader",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Logic_Writer",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Slot_Reader",
+    "https://stationeers-wiki.com/Kit_(Pipe)",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Power",
+    "https://stationeers-wiki.com/Screwdriver",
+    "https://stationeers-wiki.com/Special:Categories",
+    "https://stationeers-wiki.com/Special:Contributions/Emilgardis",
+    "https://stationeers-wiki.com/Special:MyLanguage/Fuel",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Kit_(Atmospherics)_Electrolyzer",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Kit_(Atmospherics)_Electrolyzer",
+    "https://stationeers-wiki.com/Template:Structurebox",
+    "https://stationeers-wiki.com/Tick",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/User:Emilgardis",
+    "https://stationeers-wiki.com/Wrench",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&action=edit&section=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&action=edit&section=2",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&action=edit&section=3",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&action=edit&section=4",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&action=history",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&action=info",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&diff=prev&oldid=20384",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&direction=prev&oldid=20384",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&oldid=20384",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Atmospherics)_Electrolyzer&oldid=20384&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=Power_Port&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Kit+%28Atmospherics%29+Electrolyzer&returntoquery=oldid%3D20384",
+    "https://stationeers-wiki.com/index.php?title=Talk:Kit_(Atmospherics)_Electrolyzer&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Template:Data_Network_Header&action=edit&section=T-1",
+    "https://stationeers-wiki.com/index.php?title=Template:Data_Outputs&action=edit&section=T-1",
+    "https://stationeers-wiki.com/index.php?title=Template:Data_Parameters&action=edit&section=T-1",
+    "https://stationeers-wiki.com/index.php?title=Template:Structurebox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template_talk:Structurebox&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=User_talk:Emilgardis&action=edit&redlink=1",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki__845fdeaa5e.md",
+    "html": "html\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki__845fdeaa5e.html"
+  },
+  "last_scraped": "2025-10-30T15:14:59+00:00"
+}

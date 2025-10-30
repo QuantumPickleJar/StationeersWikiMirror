@@ -1,0 +1,1069 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/index.php?title=Autolathe&oldid=22509",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Autolathe"
+    },
+    {
+      "level": 2,
+      "text": "Description [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Interfaces [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Upgrade [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Versions/Tiers [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Recipes [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Data Network Properties [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Internal Memory [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Build States [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Bugs [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 3,
+      "text": "Manual usage [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Import/Export [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Cables [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Input Data (Write) [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Output Data (Read) [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Internal Memory [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Tips for manual usage [ edit ]"
+    },
+    {
+      "level": 5,
+      "text": "Revision as of 08:37, 20 March 2025 by 188.68.109.101 ( talk ) ( → ‎ Description ) ( diff ) ← Older revision | Latest revision (diff) | Newer revision → (diff)"
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Tier",
+        "Creation",
+        "Energy Cost",
+        "Material Cost",
+        "Build Time"
+      ],
+      "rows": [
+        {
+          "Tier": "Tier One",
+          "Creation": "x1",
+          "Energy Cost": "x1",
+          "Material Cost": "x1",
+          "Build Time": "x1"
+        },
+        {
+          "Tier": "Tier Two",
+          "Creation": "x1",
+          "Energy Cost": "x1,1",
+          "Material Cost": "x1",
+          "Build Time": "x0,66"
+        },
+        {
+          "Tier": "Update 0.2.4677.21598 - Fri 29/12/2023 /Tiers"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Item",
+        "Tier",
+        "Input"
+      ],
+      "rows": [
+        {
+          "Item": "Iron Frames",
+          "Tier": "Tier One",
+          "Input": "4 200 4"
+        },
+        {
+          "Item": "Iron Sheets",
+          "Tier": "Tier One",
+          "Input": "1 200 1"
+        },
+        {
+          "Item": "Plastic Sheets",
+          "Tier": "Tier One",
+          "Input": "1 200 0,5"
+        },
+        {
+          "Item": "Glass Sheets",
+          "Tier": "Tier One",
+          "Input": "1 500 2"
+        },
+        {
+          "Item": "Stellite Glass Sheets",
+          "Tier": "Tier One",
+          "Input": "1 500 2 1"
+        },
+        {
+          "Item": "Steel Sheets",
+          "Tier": "Tier One",
+          "Input": "3 500 0,5"
+        },
+        {
+          "Item": "Steel Frames",
+          "Tier": "Tier One",
+          "Input": "7 800 2"
+        },
+        {
+          "Item": "Kit (Wall Iron)",
+          "Tier": "Tier One",
+          "Input": "1 200 1"
+        },
+        {
+          "Item": "Kit (Railing)",
+          "Tier": "Tier One",
+          "Input": "1 100 1"
+        },
+        {
+          "Item": "Kit (Composite Cladding)",
+          "Tier": "Tier One",
+          "Input": "1 200 1"
+        },
+        {
+          "Item": "Kit (Wall)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Reinforced Windows)",
+          "Tier": "Tier One",
+          "Input": "7 700 2"
+        },
+        {
+          "Item": "Kit (Window Shutter)",
+          "Tier": "Tier One",
+          "Input": "7 500 1 2"
+        },
+        {
+          "Item": "Kit (Ladder)",
+          "Tier": "Tier One",
+          "Input": "3 200 2"
+        },
+        {
+          "Item": "Kit (Pipe)",
+          "Tier": "Tier One",
+          "Input": "5 200 0,5"
+        },
+        {
+          "Item": "Cable Coil",
+          "Tier": "Tier One",
+          "Input": "5 200 0,5"
+        },
+        {
+          "Item": "Kit (Furnace)",
+          "Tier": "Tier One",
+          "Input": "120 12000 10 30"
+        },
+        {
+          "Item": "Kit (Arc Furnace)",
+          "Tier": "Tier One",
+          "Input": "60 6000 5 20"
+        },
+        {
+          "Item": "Kit (Electronics Printer)",
+          "Tier": "Tier One",
+          "Input": "120 12000 10 2 20"
+        },
+        {
+          "Item": "Kit (Rocket Manufactory)",
+          "Tier": "Tier One",
+          "Input": "120 12000 10 2 20"
+        },
+        {
+          "Item": "Kit (Security Printer)",
+          "Tier": "Tier One",
+          "Input": "180 36000 20 20 20"
+        },
+        {
+          "Item": "Kit (Blast Door)",
+          "Tier": "Tier Two",
+          "Input": "10 500 3 15"
+        },
+        {
+          "Item": "Kit (Furniture)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 20"
+        },
+        {
+          "Item": "Kit (Tables)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 20"
+        },
+        {
+          "Item": "Kit (Chairs)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 20"
+        },
+        {
+          "Item": "Kit (Beds)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 20"
+        },
+        {
+          "Item": "Kit (Sorter)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 1 10"
+        },
+        {
+          "Item": "Kit (Hydraulic Pipe Bender)",
+          "Tier": "Tier One",
+          "Input": "180 18000 10 2 20"
+        },
+        {
+          "Item": "Kit (Autolathe)",
+          "Tier": "Tier One",
+          "Input": "180 36000 10 2 20"
+        },
+        {
+          "Item": "Kit (Door)",
+          "Tier": "Tier One",
+          "Input": "10 500 3 7"
+        },
+        {
+          "Item": "Kit (Interior Doors)",
+          "Tier": "Tier One",
+          "Input": "10 500 3 5"
+        },
+        {
+          "Item": "Wall Light",
+          "Tier": "Tier One",
+          "Input": "10 500 2 1 1"
+        },
+        {
+          "Item": "Kit (Wall Arch)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Wall Flat)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Wall Geometry)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "File:ItemKitWallPadded.png Kit (Wall Padded)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Locker)",
+          "Tier": "Tier One",
+          "Input": "10 500 5"
+        },
+        {
+          "Item": "Kit (Sign)",
+          "Tier": "Tier One",
+          "Input": "5 100 3"
+        },
+        {
+          "Item": "Kit (Stairs)",
+          "Tier": "Tier One",
+          "Input": "20 500 15"
+        },
+        {
+          "Item": "Kit (Stairwell)",
+          "Tier": "Tier One",
+          "Input": "20 6000 15"
+        },
+        {
+          "Item": "Kit (Stacker)",
+          "Tier": "Tier One",
+          "Input": "10 500 2 10"
+        },
+        {
+          "Item": "Empty Can",
+          "Tier": "Tier One",
+          "Input": "1 70 1"
+        },
+        {
+          "Item": "Cardboard Box",
+          "Tier": "Tier One",
+          "Input": "2 120 2"
+        },
+        {
+          "Item": "Kit_(Chutes)",
+          "Tier": "Tier One",
+          "Input": "5 500 3"
+        },
+        {
+          "Item": "Kit (Powered Chutes)",
+          "Tier": "Tier One",
+          "Input": "5 500 2 2 3"
+        },
+        {
+          "Item": "Kit (SDB Hopper)",
+          "Tier": "Tier One",
+          "Input": "10 700 15"
+        },
+        {
+          "Item": "Kit (SDB Silo)",
+          "Tier": "Tier One",
+          "Input": "120 24000 10 20 15"
+        },
+        {
+          "Item": "Kit (Composite Floor Grating)",
+          "Tier": "Tier One",
+          "Input": "3 500 1"
+        },
+        {
+          "Item": "Kit (Tool Manufactory)",
+          "Tier": "Tier One",
+          "Input": "120 24000 10 20"
+        },
+        {
+          "Item": "Kit (Recycler)",
+          "Tier": "Tier One",
+          "Input": "60 12000 10 20"
+        },
+        {
+          "Item": "Kit (Centrifuge)",
+          "Tier": "Tier One",
+          "Input": "60 18000 5 20"
+        },
+        {
+          "Item": "Kit (Combustion Centrifuge)",
+          "Tier": "Tier Two",
+          "Input": "120 24000 5 10 20"
+        },
+        {
+          "Item": "Kit (Deep Miner)",
+          "Tier": "Tier Two",
+          "Input": "180 72000 5 5 10 50"
+        },
+        {
+          "Item": "Kit (Crate Mount)",
+          "Tier": "Tier One",
+          "Input": "10 500 10"
+        },
+        {
+          "Item": "Kit (Crate)",
+          "Tier": "Tier One",
+          "Input": "10 200 10"
+        },
+        {
+          "Item": "Kit (Crate MkII)",
+          "Tier": "Tier Two",
+          "Input": "10 200 5 10"
+        },
+        {
+          "Item": "Space Helmet",
+          "Tier": "Tier One",
+          "Input": "15 500 2 2"
+        },
+        {
+          "Item": "Eva Suit",
+          "Tier": "Tier One",
+          "Input": "15 500 5 5"
+        },
+        {
+          "Item": "Egg Carton",
+          "Tier": "Tier One",
+          "Input": "10 100 2"
+        },
+        {
+          "Item": "Coffee Mug",
+          "Tier": "Tier One",
+          "Input": "1 70 1"
+        },
+        {
+          "Item": "Kit (Flag ODA)",
+          "Tier": "Tier One",
+          "Input": "5 100 8"
+        },
+        {
+          "Item": "Kit (Respawn Point Wall Mounted)",
+          "Tier": "Tier One",
+          "Input": "20 500 1 3"
+        },
+        {
+          "Item": "Kit (Access Bridge)",
+          "Tier": "Tier One",
+          "Input": "30 15000 2 2 10"
+        },
+        {
+          "Item": "Update 0.2.4677.21598 - Thu 21/12/2023 /Recipes"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Parameter Name",
+        "Data Type",
+        "ValueAutolathe",
+        "Description"
+      ],
+      "rows": [
+        {
+          "Parameter Name": "On",
+          "Data Type": "Boolean",
+          "ValueAutolathe": "0",
+          "Description": "Turns the device off. Also toggles the switch accordingly."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Turns the device on. Also toggles the switch accordingly."
+        },
+        {
+          "Parameter Name": "Open",
+          "Data Type": "Boolean",
+          "ValueAutolathe": "0",
+          "Description": "Stops purging of stored materials in the structure. Also resets the lever accordingly."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Starts purging of stored materials in the structure. Also pulls the lever accordingly. Without powering the structure it won't purge anything."
+        },
+        {
+          "Parameter Name": "Activate",
+          "Data Type": "Boolean",
+          "ValueAutolathe": "0",
+          "Description": "Writing a 0 to the device stops the construction of the chosen item."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Writing a 1 to the device starts the construction of the chosen item. If there are not enough materials inside the structure it will starts to fabricate the item anyway, but won't actually produce the item and won't consume any stored resources."
+        },
+        {
+          "Parameter Name": "Lock",
+          "Data Type": "Boolean",
+          "ValueAutolathe": "0",
+          "Description": "Allows manual interaction with the structure."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Completely blocks any manual interaction with the structure. This doesn't inculdes interaction by logic."
+        },
+        {
+          "Parameter Name": "ClearMemory",
+          "Data Type": "Boolean",
+          "ValueAutolathe": "0",
+          "Description": "Writing a 0 to a structure doesn't have any impact."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Clears the counter memory. Will set itself back to 0 when actioned."
+        },
+        {
+          "Parameter Name": "RecipeHash",
+          "Data Type": "Integer",
+          "ValueAutolathe": "",
+          "Description": "Sets the machine to the recipe corresponding to the written hash number."
+        },
+        {
+          "Parameter Name": "Update 0.2.4677.21598 - Fri 29/12/2023 /Data_Network"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Parameter Name",
+        "Data Type",
+        "Value",
+        "Description"
+      ],
+      "rows": [
+        {
+          "Parameter Name": "On",
+          "Data Type": "Boolean",
+          "Value": "0",
+          "Description": "The Autolathe is not powered. This is the same as the physical red powerswitch located on the structure."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "The Autolathe is powered. This is the same as the physical red powerswitch located on the structure."
+        },
+        {
+          "Parameter Name": "Open",
+          "Data Type": "Boolean",
+          "Value": "0",
+          "Description": "Output of the Autolathe is closed. This is the same as the physical lever located on the structure."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Output of the Autolathe is opened. This is the same as the physical lever located on the structure."
+        },
+        {
+          "Parameter Name": "Activate",
+          "Data Type": "Boolean",
+          "Value": "0",
+          "Description": "The structure is currently producing nothing."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "The structure is currently producing something."
+        },
+        {
+          "Parameter Name": "Lock",
+          "Data Type": "Boolean",
+          "Value": "0",
+          "Description": "1 if device is locked, otherwise 0, can be set in most devices and prevents the user from access the values."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "1 if device is locked, otherwise 0, can be set in most devices and prevents the user from access the values."
+        },
+        {
+          "Parameter Name": "Power",
+          "Data Type": "Boolean",
+          "Value": "0",
+          "Description": "Can be read to return if the device is correctly powered or not, set via the power system, return 1 if powered and O if not."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "Can be read to return if the device is correctly powered or not, set via the power system, return 1 if powered and O if not."
+        },
+        {
+          "Parameter Name": "Error",
+          "Data Type": "Boolean",
+          "Value": "0",
+          "Description": "1 if device is in error state, otherwise 0."
+        },
+        {
+          "Parameter Name": "1",
+          "Data Type": "1 if device is in error state, otherwise 0."
+        },
+        {
+          "Parameter Name": "RecipeHash",
+          "Data Type": "Integer",
+          "Value": "",
+          "Description": "Current hash of the recipe the device is set to produce."
+        },
+        {
+          "Parameter Name": "Reagents",
+          "Data Type": "Integer",
+          "Value": "",
+          "Description": "Total number of reagents inside the device (e.g. 92g of iron = 92)."
+        },
+        {
+          "Parameter Name": "RequiredPower",
+          "Data Type": "Integer",
+          "Value": "",
+          "Description": "Idle operating power quantity. Does not include extra power demanded during recipe fabrication."
+        },
+        {
+          "Parameter Name": "CompletionRatio",
+          "Data Type": "Integer",
+          "Value": "",
+          "Description": "How complete the current production is for this device, between 0 and 1."
+        },
+        {
+          "Parameter Name": "ExportCount",
+          "Data Type": "Integer",
+          "Value": "",
+          "Description": "How many items exported since last ClearMemory. This count is based on every ouput stack of items (e.g. 1 item and 12g of iron = 2)."
+        },
+        {
+          "Parameter Name": "ImportCount",
+          "Data Type": "Integer",
+          "Value": "",
+          "Description": "How many items imported since last ClearMemory. The count is based on stacks (e.g. 92g of iron in on stack = 1)."
+        },
+        {
+          "Parameter Name": "PrefabHash",
+          "Data Type": "Integer",
+          "Value": "",
+          "Description": "The hash of the structure."
+        },
+        {
+          "Parameter Name": "Referenceld",
+          "Data Type": "Integer",
+          "Value": "",
+          "Description": "Unique Reference Identifier for this object."
+        },
+        {
+          "Parameter Name": "Update 0.2.4677.21598 - Fri 29/12/2023 /Data_Network"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Op_code",
+        "Name",
+        "Description",
+        "Valid Address",
+        "Bits",
+        "Bits Description"
+      ],
+      "rows": [
+        {
+          "Op_code": "1",
+          "Name": "StackPointer",
+          "Description": "The current address the stack pointer is pointing to. It cycles through the available addresses (0 through 53) in a single tick, making it look like it is decreasing for external observer.",
+          "Valid Address": "63",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-23",
+          "Name": "Index"
+        },
+        {
+          "Op_code": "24-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "2",
+          "Name": "ExecuteRecipe",
+          "Description": "This instruction will set the device to the specified prefabhash, and then begin manufacturing it. The final element of the payload is the quantity. So you can ask the device to make 200 ItemSteelSheets and it will do that. The quantity is a byte - so the maximum you can request is 255.",
+          "Valid Address": "0-53",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-15",
+          "Name": "Quantity"
+        },
+        {
+          "Op_code": "16-47",
+          "Name": "Prefab_hash"
+        },
+        {
+          "Op_code": "48-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "3",
+          "Name": "WaitUntilNextValid",
+          "Description": "This is a flag that if there is an ExecuteRecipe in the next address, then it will wait until it can be completed. So if you put this before an ExecuteRecipe, the device will sit there till the order can be completed because it is waiting for ingredients.",
+          "Valid Address": "0-53",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "4",
+          "Name": "JumpIfNextValid",
+          "Description": "This is another flag that applies to the next address (if it is ExecuteRecipe). If the recipe cannot be completed, then the Fabricator will jump to the specified address.",
+          "Valid Address": "0-53",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-23",
+          "Name": "Stack_Address"
+        },
+        {
+          "Op_code": "24-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "5",
+          "Name": "JumpToAddress",
+          "Description": "This will jump to a specific address. This will set the stack pointer to the address you specify.",
+          "Valid Address": "0-53",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-23",
+          "Name": "Stack_Address"
+        },
+        {
+          "Op_code": "24-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "6",
+          "Name": "DeviceSetLock",
+          "Description": "This will set the lock state of the device (true 1, false 0), similar to the \"L\" IC instruction. Useful if you want to lock the device, do something, then unlock it.",
+          "Valid Address": "0-53",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-15",
+          "Name": "Lock_State"
+        },
+        {
+          "Op_code": "16-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "7",
+          "Name": "EjectReagent",
+          "Description": "This allows you to specity the reagent you want to eject. All reagents of that type will be ejected. The stack will not advance until this is complete",
+          "Valid Address": "0-53",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-39",
+          "Name": "Reagent_Hash"
+        },
+        {
+          "Op_code": "40-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "8",
+          "Name": "EjectAllReagents",
+          "Description": "This instruction will eject all its reagents and pause execution till this is finished.",
+          "Valid Address": "0-53",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "9",
+          "Name": "MissingRecipeReagent",
+          "Description": "Contains information about missing reagents for current executing recipe. Appears only when autolathe is trying to execute instruction ExecuteRecipe when flag WaitUntilNextValid is present.",
+          "Valid Address": "54-62",
+          "Bits": "0-7",
+          "Bits Description": "Op_code"
+        },
+        {
+          "Op_code": "8-15",
+          "Name": "Quantity_Ceil"
+        },
+        {
+          "Op_code": "16-47",
+          "Name": "Reagent_Hash"
+        },
+        {
+          "Op_code": "48-63",
+          "Name": "Unused"
+        },
+        {
+          "Op_code": "Update 0.2.5025.22811 - Fri 02/07/2024 /Internal Memory"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Stage",
+        "Image",
+        "Relevant item",
+        "Required tool (construction)",
+        "Required tool (deconstruction)"
+      ],
+      "rows": [
+        {
+          "Stage": "1",
+          "Image": "",
+          "Relevant item": "1x Kit (Autolathe)",
+          "Required tool (construction)": "none",
+          "Required tool (deconstruction)": "Wrench"
+        },
+        {
+          "Stage": "2",
+          "Image": "",
+          "Relevant item": "2x Iron Sheets",
+          "Required tool (construction)": "Welding Torch",
+          "Required tool (deconstruction)": "Angle Grinder"
+        },
+        {
+          "Stage": "3",
+          "Image": "",
+          "Relevant item": "4x Cable Coil",
+          "Required tool (construction)": "none",
+          "Required tool (deconstruction)": "Wire Cutters"
+        },
+        {
+          "Stage": "4",
+          "Image": "",
+          "Relevant item": "2x Plastic Sheets",
+          "Required tool (construction)": "Welding Torch",
+          "Required tool (deconstruction)": "Angle Grinder"
+        },
+        {
+          "Stage": "5",
+          "Image": "",
+          "Relevant item": "none",
+          "Required tool (construction)": "Screwdriver",
+          "Required tool (deconstruction)": "Hand Drill"
+        },
+        {
+          "Stage": "6",
+          "Image": "",
+          "Relevant item": "Autolathe Printer Mod",
+          "Required tool (construction)": "Screwdriver",
+          "Required tool (deconstruction)": "Hand Drill"
+        },
+        {
+          "Stage": "Update 0.2.4677.21598 - Fri 29/12/2023 /Build States"
+        }
+      ]
+    }
+  ],
+  "infobox": {
+    "type": "table",
+    "rows": [
+      {
+        "field": "Constructing Options",
+        "value": "Autolathe"
+      },
+      {
+        "field": "Stacks",
+        "value": "No"
+      },
+      {
+        "field": "Autolathe",
+        "value": "20g Iron , 2g Gold , 10g Copper"
+      },
+      {
+        "field": "Item Hash",
+        "value": "-1753893214"
+      },
+      {
+        "field": "Item Name",
+        "value": "ItemKitAutolathe"
+      },
+      {
+        "field": "Logic Classes",
+        "value": "SlotClass.None SortingClass.Kits"
+      }
+    ]
+  },
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "robots": "noindex,nofollow",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "Autolathe",
+    "og:url": "https://stationeers-wiki.com/Autolathe"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Angle_Grinder",
+    "https://stationeers-wiki.com/Autolathe",
+    "https://stationeers-wiki.com/Autolathe/Build_States",
+    "https://stationeers-wiki.com/Autolathe/Data_Network",
+    "https://stationeers-wiki.com/Autolathe/Internal_Memory",
+    "https://stationeers-wiki.com/Autolathe/Recipes",
+    "https://stationeers-wiki.com/Autolathe/Tiers",
+    "https://stationeers-wiki.com/Autolathe_Printer_Mod",
+    "https://stationeers-wiki.com/Basic_Chutes",
+    "https://stationeers-wiki.com/Cable_Coil",
+    "https://stationeers-wiki.com/Cardboard_Box",
+    "https://stationeers-wiki.com/Category:Data_Network",
+    "https://stationeers-wiki.com/Category:Fabricators",
+    "https://stationeers-wiki.com/Category:Import/Export",
+    "https://stationeers-wiki.com/Category:Items",
+    "https://stationeers-wiki.com/Category:Kits",
+    "https://stationeers-wiki.com/Category:Structures",
+    "https://stationeers-wiki.com/Chutes",
+    "https://stationeers-wiki.com/Coffee_Mug",
+    "https://stationeers-wiki.com/Copper",
+    "https://stationeers-wiki.com/Egg_Carton",
+    "https://stationeers-wiki.com/Empty_Can",
+    "https://stationeers-wiki.com/Energy",
+    "https://stationeers-wiki.com/Eva_Suit",
+    "https://stationeers-wiki.com/ExMin_(Faction)",
+    "https://stationeers-wiki.com/File:ItemKitAutolathe.png",
+    "https://stationeers-wiki.com/File:StructureAutolatheBuildState1.png",
+    "https://stationeers-wiki.com/File:StructureAutolatheBuildState2.png",
+    "https://stationeers-wiki.com/File:StructureAutolatheBuildState3.png",
+    "https://stationeers-wiki.com/File:StructureAutolatheBuildState4.png",
+    "https://stationeers-wiki.com/File:StructureAutolatheBuildState5.png",
+    "https://stationeers-wiki.com/File:StructureAutolatheBuildState6.png",
+    "https://stationeers-wiki.com/File:StructureAutolathe_BuildState4.png",
+    "https://stationeers-wiki.com/File:StructureAutolathe_BuildState5.png",
+    "https://stationeers-wiki.com/Glass_Sheets",
+    "https://stationeers-wiki.com/Gold",
+    "https://stationeers-wiki.com/Hand_Drill",
+    "https://stationeers-wiki.com/Ingot_(Constantan)",
+    "https://stationeers-wiki.com/Ingot_(Copper)",
+    "https://stationeers-wiki.com/Ingot_(Electrum)",
+    "https://stationeers-wiki.com/Ingot_(Gold)",
+    "https://stationeers-wiki.com/Ingot_(Invar)",
+    "https://stationeers-wiki.com/Ingot_(Iron)",
+    "https://stationeers-wiki.com/Ingot_(Silicon)",
+    "https://stationeers-wiki.com/Ingot_(Solder)",
+    "https://stationeers-wiki.com/Ingot_(Steel)",
+    "https://stationeers-wiki.com/Ingot_(Stellite)",
+    "https://stationeers-wiki.com/Iron",
+    "https://stationeers-wiki.com/Iron_Frames",
+    "https://stationeers-wiki.com/Iron_Sheets",
+    "https://stationeers-wiki.com/Kit_(Access_Bridge)",
+    "https://stationeers-wiki.com/Kit_(Arc_Furnace)",
+    "https://stationeers-wiki.com/Kit_(Arch_Wall)",
+    "https://stationeers-wiki.com/Kit_(Autolathe)",
+    "https://stationeers-wiki.com/Kit_(Beds)",
+    "https://stationeers-wiki.com/Kit_(Blast_Door)",
+    "https://stationeers-wiki.com/Kit_(Centrifuge)",
+    "https://stationeers-wiki.com/Kit_(Chairs)",
+    "https://stationeers-wiki.com/Kit_(Combustion_Centrifuge)",
+    "https://stationeers-wiki.com/Kit_(Composite_Cladding)",
+    "https://stationeers-wiki.com/Kit_(Composite_Floor_Grating)",
+    "https://stationeers-wiki.com/Kit_(Crate)",
+    "https://stationeers-wiki.com/Kit_(Crate_MkII)",
+    "https://stationeers-wiki.com/Kit_(Crate_Mount)",
+    "https://stationeers-wiki.com/Kit_(Deep_Miner)",
+    "https://stationeers-wiki.com/Kit_(Door)",
+    "https://stationeers-wiki.com/Kit_(Electronics_Printer)",
+    "https://stationeers-wiki.com/Kit_(Flag_ODA)",
+    "https://stationeers-wiki.com/Kit_(Flat_Wall)",
+    "https://stationeers-wiki.com/Kit_(Furnace)",
+    "https://stationeers-wiki.com/Kit_(Furniture)",
+    "https://stationeers-wiki.com/Kit_(Geometry_Wall)",
+    "https://stationeers-wiki.com/Kit_(Hydraulic_Pipe_Bender)",
+    "https://stationeers-wiki.com/Kit_(Interior_Doors)",
+    "https://stationeers-wiki.com/Kit_(Iron_Wall)",
+    "https://stationeers-wiki.com/Kit_(Ladder)",
+    "https://stationeers-wiki.com/Kit_(Locker)",
+    "https://stationeers-wiki.com/Kit_(Padded_Wall)",
+    "https://stationeers-wiki.com/Kit_(Pipe)",
+    "https://stationeers-wiki.com/Kit_(Railing)",
+    "https://stationeers-wiki.com/Kit_(Recycler)",
+    "https://stationeers-wiki.com/Kit_(Reinforced_Windows)",
+    "https://stationeers-wiki.com/Kit_(Respawn_Point_Wall_Mounted)",
+    "https://stationeers-wiki.com/Kit_(Rocket_Manufactory)",
+    "https://stationeers-wiki.com/Kit_(SDB_Hopper)",
+    "https://stationeers-wiki.com/Kit_(SDB_Silo)",
+    "https://stationeers-wiki.com/Kit_(Security_Printer)",
+    "https://stationeers-wiki.com/Kit_(Sign)",
+    "https://stationeers-wiki.com/Kit_(Sorter)",
+    "https://stationeers-wiki.com/Kit_(Stacker)",
+    "https://stationeers-wiki.com/Kit_(Stairs)",
+    "https://stationeers-wiki.com/Kit_(Stairwell)",
+    "https://stationeers-wiki.com/Kit_(Tables)",
+    "https://stationeers-wiki.com/Kit_(Tool_Manufactory)",
+    "https://stationeers-wiki.com/Kit_(Wall)",
+    "https://stationeers-wiki.com/Kit_(Window_Shutter)",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Mod_Kit#Autolathe_Printer_Mod",
+    "https://stationeers-wiki.com/Plastic_Sheets",
+    "https://stationeers-wiki.com/Power",
+    "https://stationeers-wiki.com/Powered_Chutes",
+    "https://stationeers-wiki.com/Screwdriver",
+    "https://stationeers-wiki.com/Space_Helmet",
+    "https://stationeers-wiki.com/Special:Categories",
+    "https://stationeers-wiki.com/Special:Contributions/188.68.109.101",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Autolathe",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitWallPadded.png",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Autolathe",
+    "https://stationeers-wiki.com/Stationeers_(Faction)",
+    "https://stationeers-wiki.com/Steel_Frames",
+    "https://stationeers-wiki.com/Steel_Sheets",
+    "https://stationeers-wiki.com/Stellite_Glass_Sheets",
+    "https://stationeers-wiki.com/Talk:Autolathe",
+    "https://stationeers-wiki.com/Template:Itembox",
+    "https://stationeers-wiki.com/Template:Structurebox",
+    "https://stationeers-wiki.com/Template_talk:Itembox",
+    "https://stationeers-wiki.com/Time",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/Wall_Light",
+    "https://stationeers-wiki.com/Welding_Torch",
+    "https://stationeers-wiki.com/Wire_Cutters",
+    "https://stationeers-wiki.com/Wrench",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=1",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=10",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=11",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=12",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=13",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=2",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=3",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=4",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=5",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=6",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=7",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=8",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=edit&section=9",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=history",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&action=info",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&diff=prev&oldid=22509",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&direction=prev&oldid=22509",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&oldid=22509",
+    "https://stationeers-wiki.com/index.php?title=Autolathe&oldid=22509&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=Autolathe/Data_Network&action=edit&section=T-1",
+    "https://stationeers-wiki.com/index.php?title=Autolathe/Data_Network&action=edit&section=T-2",
+    "https://stationeers-wiki.com/index.php?title=Autolathe/Internal_Memory&action=edit&section=T-1",
+    "https://stationeers-wiki.com/index.php?title=Category:Pages_with_broken_file_links&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Access_Bridge)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Arch_Wall)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Beds)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Composite_Floor_Grating)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Crate_MkII)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Crate_Mount)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Flag_ODA)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Geometry_Wall)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Reinforced_Windows)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Respawn_Point_Wall_Mounted)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Window_Shutter)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Autolathe&returntoquery=oldid%3D22509",
+    "https://stationeers-wiki.com/index.php?title=Template:Itembox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Structurebox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template_talk:Structurebox&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=User_talk:188.68.109.101&action=edit&redlink=1",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki__4847a3aaea.md",
+    "html": "html\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki__4847a3aaea.html"
+  },
+  "last_scraped": "2025-10-30T15:18:09+00:00"
+}

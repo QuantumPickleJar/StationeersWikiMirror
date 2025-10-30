@@ -65,7 +65,7 @@ You are also promising us that you wrote this yourself, or copied it from a publ
 
 To edit this page, please answer the question that appears below ([more info](/Special:Captcha/help "Special:Captcha/help")): 
 
-What game is this wiki for?
+What machine can you use to craft iron frames?
 
 [Cancel](/Template:Data_Network_Header) |  [Editing help](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages) (opens in new window)
 

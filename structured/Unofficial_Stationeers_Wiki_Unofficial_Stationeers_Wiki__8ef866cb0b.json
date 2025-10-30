@@ -1,0 +1,206 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/index.php?title=Fabricator&action=info",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Information for \"Fabricator\""
+    },
+    {
+      "level": 2,
+      "text": "Basic information"
+    },
+    {
+      "level": 2,
+      "text": "Page protection"
+    },
+    {
+      "level": 2,
+      "text": "Edit history"
+    },
+    {
+      "level": 2,
+      "text": "Page properties"
+    },
+    {
+      "level": 5,
+      "text": ""
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Display title",
+        "Fabricator"
+      ],
+      "rows": [
+        {
+          "Display title": "Default sort key",
+          "Fabricator": "Fabricator"
+        },
+        {
+          "Display title": "Page length (in bytes)",
+          "Fabricator": "5,175"
+        },
+        {
+          "Display title": "Page ID",
+          "Fabricator": "87"
+        },
+        {
+          "Display title": "Page content language",
+          "Fabricator": "en - English"
+        },
+        {
+          "Display title": "Page content model",
+          "Fabricator": "wikitext"
+        },
+        {
+          "Display title": "Indexing by robots",
+          "Fabricator": "Allowed"
+        },
+        {
+          "Display title": "Number of redirects to this page",
+          "Fabricator": "2"
+        },
+        {
+          "Display title": "Counted as a content page",
+          "Fabricator": "Yes"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Edit",
+        "Allow all users (infinite)"
+      ],
+      "rows": [
+        {
+          "Edit": "Move",
+          "Allow all users (infinite)": "Allow all users (infinite)"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Page creator",
+        "Sunspots ( talk | contribs )"
+      ],
+      "rows": [
+        {
+          "Page creator": "Date of page creation",
+          "Sunspots ( talk | contribs )": "22:12, 16 December 2017"
+        },
+        {
+          "Page creator": "Latest editor",
+          "Sunspots ( talk | contribs )": "Wildlore ( talk | contribs )"
+        },
+        {
+          "Page creator": "Date of latest edit",
+          "Sunspots ( talk | contribs )": "11:58, 18 May 2024"
+        },
+        {
+          "Page creator": "Total number of edits",
+          "Sunspots ( talk | contribs )": "40"
+        },
+        {
+          "Page creator": "Total number of distinct authors",
+          "Sunspots ( talk | contribs )": "21"
+        },
+        {
+          "Page creator": "Recent number of edits (within past 90 days)",
+          "Sunspots ( talk | contribs )": "0"
+        },
+        {
+          "Page creator": "Recent number of distinct authors",
+          "Sunspots ( talk | contribs )": "0"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Hidden categories (2)",
+        "This page is a member of 2 hidden categories: Category:Infobox without prefab data Category:Itembox with old style recipe"
+      ],
+      "rows": [
+        {
+          "Hidden categories (2)": "Transcluded templates (12)",
+          "This page is a member of 2 hidden categories: Category:Infobox without prefab data Category:Itembox with old style recipe": "Templates used on this page: Template:Construction stage ( edit ) Template:Data Network Header ( edit ) Template:Data Outputs ( edit ) Template:Data Parameters ( edit ) Template:Deprecated ( edit ) Template:Dir ( edit ) Template:Infobox ( edit ) Template:Itembox ( edit ) Template:Structurebox ( edit ) Template:Warning ( edit ) Module:Infobox ( view source ) (protected) Module:Navbar ( view source ) (protected)"
+        }
+      ]
+    }
+  ],
+  "infobox": null,
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "robots": "noindex,nofollow",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Category:Infobox_without_prefab_data",
+    "https://stationeers-wiki.com/Category:Itembox_with_old_style_recipe",
+    "https://stationeers-wiki.com/Fabricator",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Module:Infobox",
+    "https://stationeers-wiki.com/Module:Navbar",
+    "https://stationeers-wiki.com/Special:Contributions/Sunspots",
+    "https://stationeers-wiki.com/Special:Contributions/Wildlore",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Fabricator",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Fabricator",
+    "https://stationeers-wiki.com/Talk:Fabricator",
+    "https://stationeers-wiki.com/Template:Construction_stage",
+    "https://stationeers-wiki.com/Template:Data_Network_Header",
+    "https://stationeers-wiki.com/Template:Data_Outputs",
+    "https://stationeers-wiki.com/Template:Data_Parameters",
+    "https://stationeers-wiki.com/Template:Deprecated",
+    "https://stationeers-wiki.com/Template:Infobox",
+    "https://stationeers-wiki.com/Template:Itembox",
+    "https://stationeers-wiki.com/Template:Structurebox",
+    "https://stationeers-wiki.com/Template:Warning",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/User:Sunspots",
+    "https://stationeers-wiki.com/User_talk:Sunspots",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&action=history",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&action=info",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&oldid=20716",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&oldid=242",
+    "https://stationeers-wiki.com/index.php?title=Module:Infobox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Module:Navbar&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Fabricator&returntoquery=action%3Dinfo",
+    "https://stationeers-wiki.com/index.php?title=Special:WhatLinksHere/Fabricator&hidelinks=1&hidetrans=1",
+    "https://stationeers-wiki.com/index.php?title=Template:Construction_stage&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Data_Network_Header&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Data_Outputs&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Data_Parameters&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Deprecated&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Dir&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Dir&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Template:Infobox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Itembox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Structurebox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Warning&action=edit",
+    "https://stationeers-wiki.com/index.php?title=User:Wildlore&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=User_talk:Wildlore&action=edit&redlink=1",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki__8ef866cb0b.md",
+    "html": "html\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki__8ef866cb0b.html"
+  },
+  "last_scraped": "2025-10-30T15:17:16+00:00"
+}

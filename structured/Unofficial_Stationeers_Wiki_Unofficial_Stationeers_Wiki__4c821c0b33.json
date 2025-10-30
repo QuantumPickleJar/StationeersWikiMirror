@@ -1,0 +1,272 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/index.php?title=Fabricator&printable=yes",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Fabricator"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Usage"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Data Network Properties"
+    },
+    {
+      "level": 2,
+      "text": "Bugs"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 3,
+      "text": "Data Parameters"
+    },
+    {
+      "level": 3,
+      "text": "Data Outputs"
+    },
+    {
+      "level": 5,
+      "text": ""
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Warning:",
+        "This item is deprecated as of 0.2.2479.11384 . As such this wiki page is only used as an archive."
+      ],
+      "rows": []
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Parameter Name",
+        "Data Type",
+        "Description"
+      ],
+      "rows": [
+        {
+          "Parameter Name": "Lock",
+          "Data Type": "Boolean",
+          "Description": "Locks the Fabricator, when set to 1. Unlocks it when set to 0."
+        },
+        {
+          "Parameter Name": "ClearMemory",
+          "Data Type": "Boolean",
+          "Description": "Writing on this Parameter will reset the ExportCount and ImportCount values to zero. Will set itself back to 0 when actioned."
+        },
+        {
+          "Parameter Name": "Activate",
+          "Data Type": "Boolean",
+          "Description": "Activates the Fabricator, when set to 1. Deactivates it, when set to 0."
+        },
+        {
+          "Parameter Name": "Open",
+          "Data Type": "Boolean",
+          "Description": "Opens the Fabricator, when set to 1. Closes it, when set to 0."
+        },
+        {
+          "Parameter Name": "On",
+          "Data Type": "Boolean",
+          "Description": "Turns the Fabricator on, when set to 1. Turns it off, when set to 0."
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Output Name",
+        "Data Type",
+        "Description"
+      ],
+      "rows": [
+        {
+          "Output Name": "Open",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Fabricator is open. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "On",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Fabricator is turned on. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "Lock",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Fabricator is locked. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "ImportCount",
+          "Data Type": "Integer",
+          "Description": "How many items imported since last ClearMemory."
+        },
+        {
+          "Output Name": "ExportCount",
+          "Data Type": "Integer",
+          "Description": "How many items exported since last ClearMemory."
+        },
+        {
+          "Output Name": "Error",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Fabricator is flashing an error. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "Activate",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Fabricator is active. (0 for no, 1 for yes)"
+        },
+        {
+          "Output Name": "RequiredPower",
+          "Data Type": "Integer",
+          "Description": "The amount of power, currently needed by the Fabricator, in Watts."
+        },
+        {
+          "Output Name": "RecipeHash",
+          "Data Type": "Integer",
+          "Description": "Current hash of the recipe the device is set to produce."
+        },
+        {
+          "Output Name": "Reagents",
+          "Data Type": "Float",
+          "Description": "Returns the amount of reagent contents in the Fabricator in grams."
+        },
+        {
+          "Output Name": "PrefabHash",
+          "Data Type": "Integer",
+          "Description": "The hash of the structure."
+        },
+        {
+          "Output Name": "Power",
+          "Data Type": "Boolean",
+          "Description": "Returns whether the Fabricator is turned on and receives power. (0 for no, 1 for yes)"
+        }
+      ]
+    }
+  ],
+  "infobox": {
+    "type": "table",
+    "rows": [
+      {
+        "field": "Stacks",
+        "value": "No"
+      },
+      {
+        "field": "Created With",
+        "value": "Fabricator"
+      },
+      {
+        "field": "Cost",
+        "value": "30g Iron, 5g Gold, 20g Copper"
+      }
+    ]
+  },
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "robots": "noindex,follow",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "Fabricator",
+    "og:url": "https://stationeers-wiki.com/Fabricator"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Autolathe",
+    "https://stationeers-wiki.com/Cable_Coil",
+    "https://stationeers-wiki.com/Cables",
+    "https://stationeers-wiki.com/Category:Data_Network",
+    "https://stationeers-wiki.com/Category:Deprecated",
+    "https://stationeers-wiki.com/Category:Infobox_without_prefab_data",
+    "https://stationeers-wiki.com/Category:Itembox_with_old_style_recipe",
+    "https://stationeers-wiki.com/Category:Items",
+    "https://stationeers-wiki.com/Category:Structures",
+    "https://stationeers-wiki.com/Chutes",
+    "https://stationeers-wiki.com/Computer",
+    "https://stationeers-wiki.com/Creative_Mode",
+    "https://stationeers-wiki.com/Electronics_Printer",
+    "https://stationeers-wiki.com/Fabricator",
+    "https://stationeers-wiki.com/File:Fabricator.jpg",
+    "https://stationeers-wiki.com/File:Fabricator_computer.jpg",
+    "https://stationeers-wiki.com/File:ItemKitFabricator.png",
+    "https://stationeers-wiki.com/Floor_Grating",
+    "https://stationeers-wiki.com/Furnace",
+    "https://stationeers-wiki.com/Glass_Sheets",
+    "https://stationeers-wiki.com/Ground_Penetrating_Radar",
+    "https://stationeers-wiki.com/Hydraulic_Pipe_Bender",
+    "https://stationeers-wiki.com/Integrated_Circuit_(IC10)",
+    "https://stationeers-wiki.com/Iron_Frames",
+    "https://stationeers-wiki.com/Iron_Sheets",
+    "https://stationeers-wiki.com/Iron_Walls",
+    "https://stationeers-wiki.com/Kit_(Arc_Furnace)",
+    "https://stationeers-wiki.com/Kit_(Door)",
+    "https://stationeers-wiki.com/Kit_(Lights)",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Batch_Writer",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Logic_Reader",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Logic_Writer",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)#Slot_Reader",
+    "https://stationeers-wiki.com/Kit_(Wall)",
+    "https://stationeers-wiki.com/Locker",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Motherboard_(Manufacturing)",
+    "https://stationeers-wiki.com/Pipes",
+    "https://stationeers-wiki.com/Plastic_Sheets",
+    "https://stationeers-wiki.com/Portable_Light",
+    "https://stationeers-wiki.com/Portable_Tank",
+    "https://stationeers-wiki.com/Security_Printer",
+    "https://stationeers-wiki.com/Special:Categories",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Fabricator",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Fabricator",
+    "https://stationeers-wiki.com/Spray_Paint",
+    "https://stationeers-wiki.com/Stairs",
+    "https://stationeers-wiki.com/Steel_Frames",
+    "https://stationeers-wiki.com/Steel_Sheets",
+    "https://stationeers-wiki.com/Talk:Fabricator",
+    "https://stationeers-wiki.com/Template:Itembox",
+    "https://stationeers-wiki.com/Template:Structurebox",
+    "https://stationeers-wiki.com/Template_talk:Itembox",
+    "https://stationeers-wiki.com/Tool_Manufactory",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/index.php?title=Category:Articles_which_use_infobox_templates_with_no_data_rows&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Category:Itembox_without_logic_classes&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&action=history",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&action=info",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&oldid=20716",
+    "https://stationeers-wiki.com/index.php?title=Fabricator&oldid=935&diff=20716",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Fabricator&returntoquery=printable%3Dyes",
+    "https://stationeers-wiki.com/index.php?title=Template:Itembox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template:Structurebox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template_talk:Structurebox&action=edit&redlink=1",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki__4c821c0b33.md",
+    "html": "html\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki__4c821c0b33.html"
+  },
+  "last_scraped": "2025-10-30T15:17:43+00:00"
+}

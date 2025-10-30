@@ -1,0 +1,298 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/Special:MyLanguage/Fuel",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Fuel"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Description [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Using Fuels [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Collecting gases [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Mixing Fuel [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 3,
+      "text": "Solid fuel [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Gas Fuel [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Fuel Combustion [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Superfuel Combustion [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Fuel Combustion Using a H2 Combustor [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Basic Ice Crusher Setup [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Basic Canister Mixing Setup [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Parts required [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Setup [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Usage [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Fuel mixing [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Refiling oxygen tanks [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Emptying Canisters [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Collecting Atmospheric Gases [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Parts required [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Setup [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "Use [ edit ]"
+    },
+    {
+      "level": 5,
+      "text": ""
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Source",
+        "Pollutant",
+        "CO2"
+      ],
+      "rows": [
+        {
+          "Source": "1 Coal",
+          "Pollutant": "3 mol",
+          "CO2": "10 mol"
+        },
+        {
+          "Source": "1 Charcoal",
+          "Pollutant": "3 mol",
+          "CO2": "3 mol"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Volatiles",
+        "Oxidizer",
+        "Fuel",
+        "Combustion products"
+      ],
+      "rows": [
+        {
+          "Volatiles": "Pollutants",
+          "Oxidizer": "Nitrogen",
+          "Fuel": "CO2"
+        },
+        {
+          "Volatiles": "2 Volatiles",
+          "Oxidizer": "1 Oxygen",
+          "Fuel": "",
+          "Combustion products": "3 Pollutants",
+          "col_4": "",
+          "col_5": "6 Carbon Dioxide"
+        },
+        {
+          "Volatiles": "1 Volatile",
+          "Oxidizer": "1 Nitrous Oxide",
+          "Fuel": "",
+          "Combustion products": "",
+          "col_4": "2 Nitrogen",
+          "col_5": "2 Carbon Dioxide"
+        }
+      ]
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Gases and Liquids"
+      ],
+      "rows": [
+        {
+          "Gases and Liquids": "Elements",
+          "col_1": "Compounds",
+          "col_2": "Mixtures",
+          "col_3": "Other"
+        },
+        {
+          "Gases and Liquids": "",
+          "col_1": "",
+          "col_2": "Fuel (66.6% H 2 + 33.3% O 2 ) Superfuel (50% H 2 + 50% N 2 O) Air (75% N 2 + 25% O 2 )",
+          "col_3": "Atmosphere Coolant"
+        }
+      ]
+    }
+  ],
+  "infobox": {
+    "type": "table",
+    "rows": [
+      {
+        "field": "Specific heat",
+        "value": "20.86 Joule / mol"
+      }
+    ]
+  },
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "Fuel",
+    "og:url": "https://stationeers-wiki.com/Fuel"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Active_Vent",
+    "https://stationeers-wiki.com/Cables",
+    "https://stationeers-wiki.com/Carbon_Dioxide",
+    "https://stationeers-wiki.com/Category:Gas",
+    "https://stationeers-wiki.com/Category:Liquid",
+    "https://stationeers-wiki.com/Charcoal",
+    "https://stationeers-wiki.com/File:ICE_CRUSHER.png",
+    "https://stationeers-wiki.com/File:Icon-air.png",
+    "https://stationeers-wiki.com/File:Icon-atmosphere.png",
+    "https://stationeers-wiki.com/File:Icon-coolant.png",
+    "https://stationeers-wiki.com/File:Icon-fuel.png",
+    "https://stationeers-wiki.com/File:Icon-nitro.png",
+    "https://stationeers-wiki.com/Filter",
+    "https://stationeers-wiki.com/Filtration",
+    "https://stationeers-wiki.com/Fuel",
+    "https://stationeers-wiki.com/Gas_Canister",
+    "https://stationeers-wiki.com/Gas_Mixer",
+    "https://stationeers-wiki.com/Gas_Tank_Storage",
+    "https://stationeers-wiki.com/Ice_(Nitrice)",
+    "https://stationeers-wiki.com/Ice_(Oxite)",
+    "https://stationeers-wiki.com/Ice_(Volatiles)",
+    "https://stationeers-wiki.com/Ice_Crusher",
+    "https://stationeers-wiki.com/Labeller",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Nitrogen",
+    "https://stationeers-wiki.com/Nitrolyzer",
+    "https://stationeers-wiki.com/Nitrous_Oxide",
+    "https://stationeers-wiki.com/Ore_(Coal)",
+    "https://stationeers-wiki.com/Oxygen",
+    "https://stationeers-wiki.com/Pipe_Gas_Mixer",
+    "https://stationeers-wiki.com/Pipe_Volume_Pump",
+    "https://stationeers-wiki.com/Pipes",
+    "https://stationeers-wiki.com/Pollutant",
+    "https://stationeers-wiki.com/Polluted_Water",
+    "https://stationeers-wiki.com/Portable_Gas_Tank",
+    "https://stationeers-wiki.com/Portables_Connector",
+    "https://stationeers-wiki.com/Pressure_Regulator",
+    "https://stationeers-wiki.com/Solid_Fuel_Generator",
+    "https://stationeers-wiki.com/Special:Categories",
+    "https://stationeers-wiki.com/Special:MyLanguage/Air",
+    "https://stationeers-wiki.com/Special:MyLanguage/Atmosphere",
+    "https://stationeers-wiki.com/Special:MyLanguage/Coolant",
+    "https://stationeers-wiki.com/Special:MyLanguage/Fuel",
+    "https://stationeers-wiki.com/Special:MyLanguage/Ore_(Coal)",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Fuel",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Fuel",
+    "https://stationeers-wiki.com/Template:Fluidbox",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/Volatiles",
+    "https://stationeers-wiki.com/Water",
+    "https://stationeers-wiki.com/Worlds#Vulcan",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=1",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=10",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=11",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=12",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=13",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=14",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=15",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=16",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=17",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=18",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=19",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=2",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=20",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=21",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=3",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=4",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=5",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=6",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=7",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=8",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=edit&section=9",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=history",
+    "https://stationeers-wiki.com/index.php?title=Fuel&action=info",
+    "https://stationeers-wiki.com/index.php?title=Fuel&oldid=23697",
+    "https://stationeers-wiki.com/index.php?title=Fuel&oldid=3087&diff=23697",
+    "https://stationeers-wiki.com/index.php?title=Fuel&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Fuel",
+    "https://stationeers-wiki.com/index.php?title=Talk:Fuel&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Template:Fluidbox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Template_talk:Fluidbox&action=edit&redlink=1",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\Special_MyLanguage\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.md",
+    "html": "html\\Special_MyLanguage\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.html"
+  },
+  "last_scraped": "2025-10-30T15:18:39+00:00"
+}

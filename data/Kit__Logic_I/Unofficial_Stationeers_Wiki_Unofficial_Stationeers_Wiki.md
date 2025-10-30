@@ -346,5 +346,3 @@ Hidden category:
   *[v]: View this template
   *[t]: Discuss this template
   *[e]: Edit this template
-  *[m]: This is a minor edit
-  *[N]: This edit created a new page

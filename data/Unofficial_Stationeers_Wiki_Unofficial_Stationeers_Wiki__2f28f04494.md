@@ -63,7 +63,7 @@ You are also promising us that you wrote this yourself, or copied it from a publ
 
 To edit this page, please answer the question that appears below ([more info](/Special:Captcha/help "Special:Captcha/help")): 
 
-What gas do we need to breathe in order to survive?
+What game is this wiki for?
 
 [Cancel](/Hydraulic_Pipe_Bender) |  [Editing help](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages) (opens in new window)
 

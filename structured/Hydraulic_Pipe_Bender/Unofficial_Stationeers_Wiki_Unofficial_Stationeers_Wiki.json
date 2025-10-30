@@ -1,6 +1,6 @@
 {
   "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
-  "source_url": "https://stationeers-wiki.com/Hydraulic_Pipe_Bender/en",
+  "source_url": "https://stationeers-wiki.com/Hydraulic_Pipe_Bender/Recipes",
   "depth": 1,
   "headings": [
     {
@@ -9,15 +9,7 @@
     },
     {
       "level": 2,
-      "text": "Hydraulic Pipe Bender"
-    },
-    {
-      "level": 2,
-      "text": "Recipes"
-    },
-    {
-      "level": 2,
-      "text": "Tips"
+      "text": "Hydraulic Pipe Bender/Recipes"
     },
     {
       "level": 3,
@@ -28,108 +20,628 @@
       "text": ""
     }
   ],
-  "tables": [],
-  "infobox": {
-    "type": "table",
-    "rows": [
-      {
-        "field": "Stacks",
-        "value": "?"
-      },
-      {
-        "field": "Created With",
-        "value": "Autolathe , Fabricator"
-      },
-      {
-        "field": "Cost",
-        "value": "20g Iron , 2g Gold , 10g Copper"
-      }
-    ]
-  },
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "These are all of the Hydraulic Pipe Bender recipes in the game. The recipes have been automatically scraped from the game files that can be found here: [...]/Stationeers/rocketstation_Data/StreamingAssets/Data/PipeBender.xml Please only modfify links in this template. If you want bigger changes please post themn in the discussion page."
+      ],
+      "rows": []
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Item",
+        "Tier",
+        "Input"
+      ],
+      "rows": [
+        {
+          "Item": "Kit (Active Vent)",
+          "Tier": "Tier One",
+          "Input": "5 500 5 1 5"
+        },
+        {
+          "Item": "Canister",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Kit (Water Bottle Filler)",
+          "Tier": "Tier One",
+          "Input": "7 620 3 5 8"
+        },
+        {
+          "Item": "Water Bottle",
+          "Tier": "Tier One",
+          "Input": "4 120 2 4"
+        },
+        {
+          "Item": "Gas Canister (Smart)",
+          "Tier": "Tier Two",
+          "Input": "10 1000 2 2 15"
+        },
+        {
+          "Item": "Liquid Canister (Smart)",
+          "Tier": "Tier Two",
+          "Input": "10 1000 2 2 15"
+        },
+        {
+          "Item": "Liquid Canister",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Kit (Suit Storage)",
+          "Tier": "Tier One",
+          "Input": "30 500 5 15 5"
+        },
+        {
+          "Item": "Filter (Carbon Dioxide)",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Filter (Pollutants)",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Filter (Nitrogen)",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Filter (Oxygen)",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Filter (Volatiles)",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Filter (Nitrous Oxide)",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Filter (Water)",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Medium Filter (Carbon Dioxide)",
+          "Tier": "Tier One",
+          "Input": "20 2500 1 5 5"
+        },
+        {
+          "Item": "Medium Filter (Pollutants)",
+          "Tier": "Tier One",
+          "Input": "20 2500 1 5 5"
+        },
+        {
+          "Item": "Medium Filter (Nitrogen)",
+          "Tier": "Tier One",
+          "Input": "20 2500 1 5 5"
+        },
+        {
+          "Item": "Medium Filter (Oxygen)",
+          "Tier": "Tier One",
+          "Input": "20 2500 1 5 5"
+        },
+        {
+          "Item": "Medium Filter (Volatiles)",
+          "Tier": "Tier One",
+          "Input": "20 2500 1 5 5"
+        },
+        {
+          "Item": "Medium Filter (Nitrous Oxide)",
+          "Tier": "Tier One",
+          "Input": "20 2500 1 5 5"
+        },
+        {
+          "Item": "Medium Filter (Water)",
+          "Tier": "Tier One",
+          "Input": "20 2500 1 5 5"
+        },
+        {
+          "Item": "Heavy Filter (Carbon Dioxide)",
+          "Tier": "Tier Two",
+          "Input": "45 4000 1 5 1"
+        },
+        {
+          "Item": "Heavy Filter (Pollutants)",
+          "Tier": "Tier Two",
+          "Input": "45 4000 1 5 1"
+        },
+        {
+          "Item": "Heavy Filter (Nitrogen)",
+          "Tier": "Tier Two",
+          "Input": "45 4000 1 5 1"
+        },
+        {
+          "Item": "Heavy Filter (Oxygen)",
+          "Tier": "Tier Two",
+          "Input": "45 4000 1 5 1"
+        },
+        {
+          "Item": "Heavy Filter (Volatiles)",
+          "Tier": "Tier Two",
+          "Input": "45 4000 1 5 1"
+        },
+        {
+          "Item": "Heavy Filter (Nitrous Oxide)",
+          "Tier": "Tier Two",
+          "Input": "45 4000 1 5 1"
+        },
+        {
+          "Item": "Heavy Filter (Water)",
+          "Tier": "Tier Two",
+          "Input": "45 4000 1 5 1"
+        },
+        {
+          "Item": "Kit (Sensor)",
+          "Tier": "Tier One",
+          "Input": "10 500 1 1 1"
+        },
+        {
+          "Item": "File:ItemKitPipeUtility.png Kit (Pipe Utility Gas)",
+          "Tier": "Tier One",
+          "Input": "15 500 5"
+        },
+        {
+          "Item": "File:ItemKitPipeUtilityLiquid.png Kit (Pipe Utility Liquid)",
+          "Tier": "Tier One",
+          "Input": "15 500 5"
+        },
+        {
+          "Item": "Kit (Hydroponic Tray)",
+          "Tier": "Tier One",
+          "Input": "5 500 10"
+        },
+        {
+          "Item": "Kit (Planter)",
+          "Tier": "Tier One",
+          "Input": "5 500 10"
+        },
+        {
+          "Item": "Kit (Airlock)",
+          "Tier": "Tier One",
+          "Input": "50 5000 5 5 15"
+        },
+        {
+          "Item": "Kit (Hangar Door)",
+          "Tier": "Tier One",
+          "Input": "60 6000 5 5 25"
+        },
+        {
+          "Item": "Kit (Atmospherics)",
+          "Tier": "Tier One",
+          "Input": "30 6000 20 5 10"
+        },
+        {
+          "Item": "Kit (Chute)",
+          "Tier": "Tier One",
+          "Input": "2 500 3"
+        },
+        {
+          "Item": "Kit (Standard Chute)",
+          "Tier": "Tier One",
+          "Input": "5 500 2 2 3"
+        },
+        {
+          "Item": "Kit (Pipe)",
+          "Tier": "Tier One",
+          "Input": "2 200 0,5"
+        },
+        {
+          "Item": "Kit (Insulated Pipe)",
+          "Tier": "Tier One",
+          "Input": "4 500 1 1"
+        },
+        {
+          "Item": "Kit (Insulated Liquid Pipe)",
+          "Tier": "Tier One",
+          "Input": "4 500 1 1"
+        },
+        {
+          "Item": "Kit (Liquid Pipe)",
+          "Tier": "Tier One",
+          "Input": "2 500 0,5"
+        },
+        {
+          "Item": "Kit (Pressure Regulator)",
+          "Tier": "Tier One",
+          "Input": "5 500 2 1 5"
+        },
+        {
+          "Item": "File:ItemKitLiquidRegulator.png Kit (Liquid Regulator)",
+          "Tier": "Tier One",
+          "Input": "5 500 2 1 5"
+        },
+        {
+          "Item": "Kit (Tank)",
+          "Tier": "Tier One",
+          "Input": "20 2000 5 20"
+        },
+        {
+          "Item": "Kit (Liquid Tank)",
+          "Tier": "Tier One",
+          "Input": "20 2000 5 20"
+        },
+        {
+          "Item": "Kit (Tank Insulated)",
+          "Tier": "Tier One",
+          "Input": "30 6000 5 30 20"
+        },
+        {
+          "Item": "Kit (Liquid Tank Insulated)",
+          "Tier": "Tier One",
+          "Input": "30 6000 5 30 20"
+        },
+        {
+          "Item": "Passive Vent",
+          "Tier": "Tier One",
+          "Input": "5 500 3"
+        },
+        {
+          "Item": "Pipe Cowl",
+          "Tier": "Tier One",
+          "Input": "5 500 3"
+        },
+        {
+          "Item": "Kit (Pipe Analyzer)",
+          "Tier": "Tier One",
+          "Input": "10 500 2 2 2"
+        },
+        {
+          "Item": "Kit (Liquid Pipe Analyzer)",
+          "Tier": "Tier One",
+          "Input": "10 500 2 2 2"
+        },
+        {
+          "Item": "Kit (Digital Valve)",
+          "Tier": "Tier One",
+          "Input": "15 500 2 3 5"
+        },
+        {
+          "Item": "Kit (Water Digital Valve)",
+          "Tier": "Tier One",
+          "Input": "15 500 2 3 5"
+        },
+        {
+          "Item": "Kit (Gas Mixer)",
+          "Tier": "Tier One",
+          "Input": "10 500 2 2 2"
+        },
+        {
+          "Item": "Kit (Pipe Label)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Pipe Meter)",
+          "Tier": "Tier One",
+          "Input": "10 500 2 3"
+        },
+        {
+          "Item": "Kit (Liquid Pipe Meter)",
+          "Tier": "Tier One",
+          "Input": "10 500 2 3"
+        },
+        {
+          "Item": "Kit (Liquid Drain)",
+          "Tier": "Tier One",
+          "Input": "10 500 2 5"
+        },
+        {
+          "Item": "Kit (Pipe Radiator)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 2"
+        },
+        {
+          "Item": "Kit (Large Extendable Radiator)",
+          "Tier": "Tier Two",
+          "Input": "30 500 10 10 10"
+        },
+        {
+          "Item": "Kit (Medium Radiator Liquid)",
+          "Tier": "Tier Two",
+          "Input": "30 500 5 5 5"
+        },
+        {
+          "Item": "Kit (Medium Radiator)",
+          "Tier": "Tier Two",
+          "Input": "30 500 5 5 5"
+        },
+        {
+          "Item": "Kit (Powered Vent)",
+          "Tier": "Tier Two",
+          "Input": "20 1000 5 2 5"
+        },
+        {
+          "Item": "Kit (Heat Exchanger)",
+          "Tier": "Tier Two",
+          "Input": "30 1000 10 10"
+        },
+        {
+          "Item": "File:ItemKitLargeDirectHeatExchanger.png Kit (Large Direct Heat Exchanger)",
+          "Tier": "Tier Two",
+          "Input": "30 1000 10 10"
+        },
+        {
+          "Item": "File:ItemKitPassthroughHeatExchanger.png Kit (Counterflow Heat Exchanger)",
+          "Tier": "Tier Two",
+          "Input": "30 1000 10 10"
+        },
+        {
+          "Item": "File:ItemKitSmallDirectHeatExchanger.png Kit (Small Direct Heat Exchanger)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 3"
+        },
+        {
+          "Item": "File:ItemKitEvaporationChamber.png Kit (Phase Change Device)",
+          "Tier": "Tier One",
+          "Input": "30 500 10 5 10"
+        },
+        {
+          "Item": "Kit (Pipe Radiator Liquid)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 2"
+        },
+        {
+          "Item": "Kit (Pipe Valve)",
+          "Tier": "Tier One",
+          "Input": "5 500 2 3"
+        },
+        {
+          "Item": "Kit (Liquid Pipe Valve)",
+          "Tier": "Tier One",
+          "Input": "5 500 2 3"
+        },
+        {
+          "Item": "Kit (Volume Pump)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 2 5"
+        },
+        {
+          "Item": "Kit (Turbo Volume Pump - Gas)",
+          "Tier": "Tier Two",
+          "Input": "5 500 4 5 4 5"
+        },
+        {
+          "Item": "Kit (Turbo Volume Pump - Liquid)",
+          "Tier": "Tier Two",
+          "Input": "5 500 4 5 4 5"
+        },
+        {
+          "Item": "Kit (Liquid Volume Pump)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 2 5"
+        },
+        {
+          "Item": "Kit (Pipe Heater - Liquid)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 3 5"
+        },
+        {
+          "Item": "Kit (Pipe Heater - Gas)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 3 5"
+        },
+        {
+          "Item": "File:ItemKitPortablesConnector.png Kit (Portables Connector)",
+          "Tier": "Tier One",
+          "Input": "5 500 5"
+        },
+        {
+          "Item": "Kit (Wall Cooler)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 1 3"
+        },
+        {
+          "Item": "Kit (Liquid Wall Cooler)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 1 3"
+        },
+        {
+          "Item": "Kit (Wall Heater)",
+          "Tier": "Tier One",
+          "Input": "5 500 3 1 3"
+        },
+        {
+          "Item": "Kit (Sleeper)",
+          "Tier": "Tier One",
+          "Input": "60 6000 10 10 25"
+        },
+        {
+          "Item": "Kit (Cryo Tube)",
+          "Tier": "Tier Two",
+          "Input": "120 24000 10 10 5 35"
+        },
+        {
+          "Item": "Kit (Portable Air Conditioner)",
+          "Tier": "Tier One",
+          "Input": "60 5000 5 5 5 20"
+        },
+        {
+          "Item": "Kit (Portable Scrubber)",
+          "Tier": "Tier One",
+          "Input": "30 5000 5 5 5 20"
+        },
+        {
+          "Item": "Kit (Portable Hydroponics)",
+          "Tier": "Tier One",
+          "Input": "30 1000 5 5 20"
+        },
+        {
+          "Item": "Kit (Pipe Organ)",
+          "Tier": "Tier One",
+          "Input": "5 100 3"
+        },
+        {
+          "Item": "Kit (Ice Crusher)",
+          "Tier": "Tier One",
+          "Input": "30 3000 1 1 3"
+        },
+        {
+          "Item": "Seed Tray",
+          "Tier": "Tier One",
+          "Input": "10 500 5 10 15"
+        },
+        {
+          "Item": "Update 0.2.4677.21598 - Thu 28/12/2023 /Recipes"
+        }
+      ]
+    }
+  ],
+  "infobox": null,
   "metadata": {
     "generator": "MediaWiki 1.30.0",
     "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
     "og:type": "article",
     "og:site_name": "Unofficial Stationeers Wiki",
-    "og:title": "Hydraulic Pipe Bender/en",
-    "og:url": "https://stationeers-wiki.com/Hydraulic_Pipe_Bender/en"
+    "og:title": "Hydraulic Pipe Bender/Recipes",
+    "og:url": "https://stationeers-wiki.com/Hydraulic_Pipe_Bender/Recipes"
   },
   "links": [
     "https://stationeers-wiki.com/Active_Vent",
-    "https://stationeers-wiki.com/Airlock",
-    "https://stationeers-wiki.com/Atmospherics",
-    "https://stationeers-wiki.com/Autolathe",
-    "https://stationeers-wiki.com/Canister",
-    "https://stationeers-wiki.com/Category:Infobox_without_prefab_data",
-    "https://stationeers-wiki.com/Category:Itembox_with_old_style_recipe",
-    "https://stationeers-wiki.com/Category:Items",
-    "https://stationeers-wiki.com/Category:Machines",
-    "https://stationeers-wiki.com/Category:Structures",
-    "https://stationeers-wiki.com/Chutes",
-    "https://stationeers-wiki.com/Copper",
-    "https://stationeers-wiki.com/Fabricator",
-    "https://stationeers-wiki.com/File:Hydraulic_Pipe_Bender.jpg",
-    "https://stationeers-wiki.com/File:ItemKitHydraulicPipeBender.png",
+    "https://stationeers-wiki.com/Energy",
     "https://stationeers-wiki.com/Filter",
-    "https://stationeers-wiki.com/Gas_Tank_Storage",
-    "https://stationeers-wiki.com/Gold",
+    "https://stationeers-wiki.com/Gas_Canister",
+    "https://stationeers-wiki.com/Gas_Canister_(Smart)",
     "https://stationeers-wiki.com/Hydraulic_Pipe_Bender",
-    "https://stationeers-wiki.com/Hydraulic_Pipe_Bender/en",
-    "https://stationeers-wiki.com/Hydroponic_Tray",
-    "https://stationeers-wiki.com/Iron",
+    "https://stationeers-wiki.com/Hydraulic_Pipe_Bender/Recipes",
+    "https://stationeers-wiki.com/Ingot_(Constantan)",
+    "https://stationeers-wiki.com/Ingot_(Copper)",
+    "https://stationeers-wiki.com/Ingot_(Electrum)",
+    "https://stationeers-wiki.com/Ingot_(Gold)",
+    "https://stationeers-wiki.com/Ingot_(Invar)",
+    "https://stationeers-wiki.com/Ingot_(Iron)",
+    "https://stationeers-wiki.com/Ingot_(Nickel)",
+    "https://stationeers-wiki.com/Ingot_(Silicon)",
+    "https://stationeers-wiki.com/Ingot_(Silver)",
+    "https://stationeers-wiki.com/Ingot_(Solder)",
+    "https://stationeers-wiki.com/Ingot_(Steel)",
+    "https://stationeers-wiki.com/Ingot_(Stellite)",
+    "https://stationeers-wiki.com/Kit_(Airlock)",
+    "https://stationeers-wiki.com/Kit_(Atmospherics)",
+    "https://stationeers-wiki.com/Kit_(Chute)",
+    "https://stationeers-wiki.com/Kit_(Counterflow_Heat_Exchanger)",
+    "https://stationeers-wiki.com/Kit_(Cryo_Tube)",
+    "https://stationeers-wiki.com/Kit_(Digital_Valve)",
+    "https://stationeers-wiki.com/Kit_(Gas_Mixer)",
+    "https://stationeers-wiki.com/Kit_(Hangar_Door)",
+    "https://stationeers-wiki.com/Kit_(Heat_Exchanger)",
+    "https://stationeers-wiki.com/Kit_(Hydroponic_Tray)",
+    "https://stationeers-wiki.com/Kit_(Ice_Crusher)",
+    "https://stationeers-wiki.com/Kit_(Insulated_Liquid_Pipe)",
+    "https://stationeers-wiki.com/Kit_(Insulated_Pipe)",
+    "https://stationeers-wiki.com/Kit_(Large_Direct_Heat_Exchanger)",
+    "https://stationeers-wiki.com/Kit_(Large_Extendable_Radiator)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Drain)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Pipe)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Pipe_Analyzer)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Pipe_Meter)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Pipe_Valve)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Tank)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Tank_Insulated)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Volume_Pump)",
+    "https://stationeers-wiki.com/Kit_(Liquid_Wall_Cooler)",
+    "https://stationeers-wiki.com/Kit_(Medium_Radiator)",
+    "https://stationeers-wiki.com/Kit_(Medium_Radiator_Liquid)",
+    "https://stationeers-wiki.com/Kit_(Pipe)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Analyzer)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Heater_-_Gas)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Heater_-_Liquid)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Label)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Meter)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Organ)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Radiator)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Radiator_Liquid)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Utility_Gas)",
+    "https://stationeers-wiki.com/Kit_(Pipe_Valve)",
+    "https://stationeers-wiki.com/Kit_(Planter)",
+    "https://stationeers-wiki.com/Kit_(Portable_Air_Conditioner)",
+    "https://stationeers-wiki.com/Kit_(Portable_Hydroponics)",
+    "https://stationeers-wiki.com/Kit_(Portable_Scrubber)",
+    "https://stationeers-wiki.com/Kit_(Powered_Vent)",
+    "https://stationeers-wiki.com/Kit_(Pressure_Regulator)",
+    "https://stationeers-wiki.com/Kit_(Sleeper)",
+    "https://stationeers-wiki.com/Kit_(Small_Direct_Heat_Exchanger)",
+    "https://stationeers-wiki.com/Kit_(Standard_Chute)",
+    "https://stationeers-wiki.com/Kit_(Tank)",
+    "https://stationeers-wiki.com/Kit_(Tank_Insulated)",
+    "https://stationeers-wiki.com/Kit_(Turbo_Volume_Pump_-_Gas)",
+    "https://stationeers-wiki.com/Kit_(Turbo_Volume_Pump_-_Liquid)",
+    "https://stationeers-wiki.com/Kit_(Volume_Pump)",
+    "https://stationeers-wiki.com/Kit_(Wall_Cooler)",
+    "https://stationeers-wiki.com/Kit_(Wall_Heater)",
+    "https://stationeers-wiki.com/Kit_(Water_Bottle_Filler)",
+    "https://stationeers-wiki.com/Kit_(Water_Digital_Valve)",
+    "https://stationeers-wiki.com/Liquid_Canister",
+    "https://stationeers-wiki.com/Liquid_Canister_(Smart)",
     "https://stationeers-wiki.com/Main_Page",
     "https://stationeers-wiki.com/Passive_Vent",
-    "https://stationeers-wiki.com/Pipe",
-    "https://stationeers-wiki.com/Pipe_Analyzer",
-    "https://stationeers-wiki.com/Pipe_Digital_Valve",
-    "https://stationeers-wiki.com/Pipe_Gas_Mixer",
-    "https://stationeers-wiki.com/Pipe_Label",
-    "https://stationeers-wiki.com/Pipe_Meter",
-    "https://stationeers-wiki.com/Pipe_Radiator",
-    "https://stationeers-wiki.com/Pipe_Valve",
-    "https://stationeers-wiki.com/Pipe_Volume_Pump",
-    "https://stationeers-wiki.com/Portable_Air_Conditioner",
-    "https://stationeers-wiki.com/Portable_Air_Scrubber",
-    "https://stationeers-wiki.com/Portable_Generator",
-    "https://stationeers-wiki.com/Portable_Light",
-    "https://stationeers-wiki.com/Portable_Tank",
-    "https://stationeers-wiki.com/Pressure_Regulator",
+    "https://stationeers-wiki.com/Pipe_Cowl",
+    "https://stationeers-wiki.com/Seed_Tray",
     "https://stationeers-wiki.com/Sensors",
     "https://stationeers-wiki.com/Special:Categories",
     "https://stationeers-wiki.com/Special:Random",
     "https://stationeers-wiki.com/Special:RecentChanges",
-    "https://stationeers-wiki.com/Special:RecentChangesLinked/Hydraulic_Pipe_Bender/en",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Hydraulic_Pipe_Bender/Recipes",
     "https://stationeers-wiki.com/Special:SpecialPages",
     "https://stationeers-wiki.com/Special:UploadWizard",
-    "https://stationeers-wiki.com/Special:WhatLinksHere/Hydraulic_Pipe_Bender/en",
-    "https://stationeers-wiki.com/Tank",
-    "https://stationeers-wiki.com/Tank_Connector",
-    "https://stationeers-wiki.com/Template:Itembox",
-    "https://stationeers-wiki.com/Template:Structurebox",
-    "https://stationeers-wiki.com/Template_talk:Itembox",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitEvaporationChamber.png",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitLargeDirectHeatExchanger.png",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitLiquidRegulator.png",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitPassthroughHeatExchanger.png",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitPipeUtility.png",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitPipeUtilityLiquid.png",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitPortablesConnector.png",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitSmallDirectHeatExchanger.png",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Hydraulic_Pipe_Bender/Recipes",
+    "https://stationeers-wiki.com/Suit_Storage",
+    "https://stationeers-wiki.com/Time",
     "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
     "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
     "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
-    "https://stationeers-wiki.com/Wall_Cooler",
-    "https://stationeers-wiki.com/Wall_Heater",
-    "https://stationeers-wiki.com/index.php?title=Category:Articles_which_use_infobox_templates_with_no_data_rows&action=edit&redlink=1",
-    "https://stationeers-wiki.com/index.php?title=Category:Itembox_without_logic_classes&action=edit&redlink=1",
-    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/en&action=edit",
-    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/en&action=history",
-    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/en&action=info",
-    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/en&oldid=3398",
-    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/en&printable=yes",
-    "https://stationeers-wiki.com/index.php?title=Special:Translate&group=page-Hydraulic+Pipe+Bender&language=en&action=page&filter=",
-    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Hydraulic+Pipe+Bender%2Fen",
-    "https://stationeers-wiki.com/index.php?title=Talk:Hydraulic_Pipe_Bender/en&action=edit&redlink=1",
-    "https://stationeers-wiki.com/index.php?title=Template:Itembox&action=edit",
-    "https://stationeers-wiki.com/index.php?title=Template:Structurebox&action=edit",
-    "https://stationeers-wiki.com/index.php?title=Template_talk:Structurebox&action=edit&redlink=1",
+    "https://stationeers-wiki.com/Water_Bottle",
+    "https://stationeers-wiki.com/index.php?title=Category:Pages_with_broken_file_links&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/Recipes&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/Recipes&action=history",
+    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/Recipes&action=info",
+    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/Recipes&oldid=19485",
+    "https://stationeers-wiki.com/index.php?title=Hydraulic_Pipe_Bender/Recipes&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Chute)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Large_Extendable_Radiator)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Liquid_Pipe_Valve)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Liquid_Regulator)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Liquid_Tank)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Liquid_Tank_Insulated)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Medium_Radiator)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Medium_Radiator_Liquid)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Phase_Change_Device)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Pipe_Heater_-_Gas)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Pipe_Heater_-_Liquid)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Pipe_Radiator)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Pipe_Radiator_Liquid)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Pipe_Utility_Liquid)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Planter)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Portables_Connector)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Standard_Chute)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Tank_Insulated)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Turbo_Volume_Pump_-_Liquid)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Water_Digital_Valve)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Hydraulic+Pipe+Bender%2FRecipes",
+    "https://stationeers-wiki.com/index.php?title=Talk:Hydraulic_Pipe_Bender/Recipes&action=edit&redlink=1",
     "https://www.mediawiki.org/"
   ],
   "paths": {
     "markdown": "data\\Hydraulic_Pipe_Bender\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.md",
     "html": "html\\Hydraulic_Pipe_Bender\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.html"
   },
-  "last_scraped": "2025-10-30T04:26:10+00:00"
+  "last_scraped": "2025-10-30T15:16:24+00:00"
 }

@@ -63,7 +63,7 @@ You are also promising us that you wrote this yourself, or copied it from a publ
 
 To edit this page, please answer the question that appears below ([more info](/Special:Captcha/help "Special:Captcha/help")): 
 
-What machine can you use to craft iron frames?
+What game is this wiki for?
 
 [Cancel](/Kit_\(Atmospherics\)_Electrolyzer) |  [Editing help](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages) (opens in new window)
 
@@ -94,5 +94,3 @@ Retrieved from "<https://stationeers-wiki.com/Kit_(Atmospherics)_Electrolyzer>"
   *[v]: View this template
   *[t]: Discuss this template
   *[e]: Edit this template
-  *[m]: This is a minor edit
-  *[N]: This edit created a new page

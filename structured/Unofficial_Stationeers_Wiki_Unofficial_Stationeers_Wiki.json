@@ -1,6 +1,6 @@
 {
   "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
-  "source_url": "https://stationeers-wiki.com/Wrench",
+  "source_url": "https://stationeers-wiki.com/Data_Port",
   "depth": 1,
   "headings": [
     {
@@ -9,15 +9,7 @@
     },
     {
       "level": 2,
-      "text": "Wrench"
-    },
-    {
-      "level": 2,
-      "text": "Description [ edit ]"
-    },
-    {
-      "level": 2,
-      "text": "Use [ edit ]"
+      "text": "Data Port"
     },
     {
       "level": 3,
@@ -29,82 +21,41 @@
     }
   ],
   "tables": [],
-  "infobox": {
-    "type": "table",
-    "rows": [
-      {
-        "field": "Tool Manufactory",
-        "value": "3g Iron"
-      },
-      {
-        "field": "Item Hash",
-        "value": "-1886261558"
-      },
-      {
-        "field": "Item Name",
-        "value": "ItemWrench"
-      },
-      {
-        "field": "Logic Classes",
-        "value": "SlotClass.Tool SortingClass.Tools"
-      }
-    ]
-  },
+  "infobox": null,
   "metadata": {
     "generator": "MediaWiki 1.30.0",
     "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
     "og:type": "article",
     "og:site_name": "Unofficial Stationeers Wiki",
-    "og:title": "Wrench",
-    "og:url": "https://stationeers-wiki.com/Wrench"
+    "og:title": "Data Port",
+    "og:url": "https://stationeers-wiki.com/Data_Port"
   },
   "links": [
-    "https://stationeers-wiki.com/Category:Items",
-    "https://stationeers-wiki.com/Category:Tools",
-    "https://stationeers-wiki.com/Electrum",
-    "https://stationeers-wiki.com/File:ItemMKIIWrench.png",
-    "https://stationeers-wiki.com/File:ItemWrench.png",
-    "https://stationeers-wiki.com/Iron",
-    "https://stationeers-wiki.com/Iron_Frames",
-    "https://stationeers-wiki.com/Iron_Sheets",
+    "https://stationeers-wiki.com/Data_Port",
+    "https://stationeers-wiki.com/Integrated_Circuit_(IC10)",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)",
     "https://stationeers-wiki.com/Main_Page",
-    "https://stationeers-wiki.com/Pipe",
-    "https://stationeers-wiki.com/Solar_Panel",
-    "https://stationeers-wiki.com/Special:Categories",
     "https://stationeers-wiki.com/Special:Random",
     "https://stationeers-wiki.com/Special:RecentChanges",
-    "https://stationeers-wiki.com/Special:RecentChangesLinked/Wrench",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Data_Port",
     "https://stationeers-wiki.com/Special:SpecialPages",
     "https://stationeers-wiki.com/Special:UploadWizard",
-    "https://stationeers-wiki.com/Special:WhatLinksHere/Wrench",
-    "https://stationeers-wiki.com/Starting_Gear",
-    "https://stationeers-wiki.com/Template:Itembox",
-    "https://stationeers-wiki.com/Template_talk:Itembox",
-    "https://stationeers-wiki.com/Tool_Manufactory",
-    "https://stationeers-wiki.com/Tool_Manufactory_(Tier_Two)",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Data_Port",
     "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
     "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
     "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
-    "https://stationeers-wiki.com/Worlds#Venus",
-    "https://stationeers-wiki.com/Worlds#Vulcan",
-    "https://stationeers-wiki.com/Wrench",
-    "https://stationeers-wiki.com/index.php?title=Category:Articles_which_use_infobox_templates_with_no_data_rows&action=edit&redlink=1",
-    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Wrench",
-    "https://stationeers-wiki.com/index.php?title=Talk:Wrench&action=edit&redlink=1",
-    "https://stationeers-wiki.com/index.php?title=Template:Itembox&action=edit",
-    "https://stationeers-wiki.com/index.php?title=Wrench&action=edit",
-    "https://stationeers-wiki.com/index.php?title=Wrench&action=edit&section=1",
-    "https://stationeers-wiki.com/index.php?title=Wrench&action=edit&section=2",
-    "https://stationeers-wiki.com/index.php?title=Wrench&action=history",
-    "https://stationeers-wiki.com/index.php?title=Wrench&action=info",
-    "https://stationeers-wiki.com/index.php?title=Wrench&oldid=1662&diff=20400",
-    "https://stationeers-wiki.com/index.php?title=Wrench&oldid=20400",
-    "https://stationeers-wiki.com/index.php?title=Wrench&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=Data_Port&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Data_Port&action=history",
+    "https://stationeers-wiki.com/index.php?title=Data_Port&action=info",
+    "https://stationeers-wiki.com/index.php?title=Data_Port&oldid=16252",
+    "https://stationeers-wiki.com/index.php?title=Data_Port&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Data+Port",
+    "https://stationeers-wiki.com/index.php?title=Talk:Data_Port&action=edit&redlink=1",
     "https://www.mediawiki.org/"
   ],
   "paths": {
     "markdown": "data\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.md",
     "html": "html\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.html"
   },
-  "last_scraped": "2025-10-30T04:26:17+00:00"
+  "last_scraped": "2025-10-30T15:18:41+00:00"
 }
