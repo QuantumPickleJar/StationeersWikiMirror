@@ -1,7 +1,16 @@
 {
   "title": "System requirements",
+  "source_url": "https://stationeers.fandom.com/wiki/System_requirements",
   "categories": [
-    "Category:Stationeers"
+    "Stationeers"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\System requirements.md",
+    "wikitext": "raw\\System requirements.wikitext",
+    "html": "html\\System requirements.html"
+  },
+  "last_scraped": "2025-10-30T04:12:57Z"
 }

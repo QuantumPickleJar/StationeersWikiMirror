@@ -1,12 +1,21 @@
 {
   "title": "Sanity",
+  "source_url": "https://stationeers.fandom.com/wiki/Sanity",
   "categories": [
-    "Category:Survival"
+    "Survival"
   ],
   "templates": [
     {
       "name": "PAGENAME",
       "params": {}
     }
-  ]
+  ],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Survival\\Sanity.md",
+    "wikitext": "raw\\Survival\\Sanity.wikitext",
+    "html": "html\\Survival\\Sanity.html"
+  },
+  "last_scraped": "2025-10-30T04:13:49Z"
 }

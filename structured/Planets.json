@@ -1,8 +1,17 @@
 {
   "title": "Planets",
+  "source_url": "https://stationeers.fandom.com/wiki/Planets",
   "categories": [
-    "Category:Exploration",
-    "Category:Stationeers"
+    "Exploration",
+    "Stationeers"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Planets.md",
+    "wikitext": "raw\\Planets.wikitext",
+    "html": "html\\Planets.html"
+  },
+  "last_scraped": "2025-10-30T04:12:48Z"
 }

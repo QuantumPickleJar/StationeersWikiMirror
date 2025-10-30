@@ -1,12 +1,21 @@
 {
   "title": "Hygiene",
+  "source_url": "https://stationeers.fandom.com/wiki/Hygiene",
   "categories": [
-    "Category:Survival"
+    "Survival"
   ],
   "templates": [
     {
       "name": "PAGENAME",
       "params": {}
     }
-  ]
+  ],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Survival\\Hygiene.md",
+    "wikitext": "raw\\Survival\\Hygiene.wikitext",
+    "html": "html\\Survival\\Hygiene.html"
+  },
+  "last_scraped": "2025-10-30T04:13:46Z"
 }

@@ -1,12 +1,21 @@
 {
   "title": "Building",
+  "source_url": "https://stationeers.fandom.com/wiki/Building",
   "categories": [
-    "Category:Survival"
+    "Survival"
   ],
   "templates": [
     {
       "name": "PAGENAME",
       "params": {}
     }
-  ]
+  ],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Survival\\Building.md",
+    "wikitext": "raw\\Survival\\Building.wikitext",
+    "html": "html\\Survival\\Building.html"
+  },
+  "last_scraped": "2025-10-30T04:13:36Z"
 }

@@ -1,7 +1,16 @@
 {
   "title": "Current build",
+  "source_url": "https://stationeers.fandom.com/wiki/Current_build",
   "categories": [
-    "Category:Stationeers"
+    "Stationeers"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Current build.md",
+    "wikitext": "raw\\Current build.wikitext",
+    "html": "html\\Current build.html"
+  },
+  "last_scraped": "2025-10-30T04:12:42Z"
 }

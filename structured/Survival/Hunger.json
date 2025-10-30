@@ -1,12 +1,21 @@
 {
   "title": "Hunger",
+  "source_url": "https://stationeers.fandom.com/wiki/Hunger",
   "categories": [
-    "Category:Survival"
+    "Survival"
   ],
   "templates": [
     {
       "name": "PAGENAME",
       "params": {}
     }
-  ]
+  ],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Survival\\Hunger.md",
+    "wikitext": "raw\\Survival\\Hunger.wikitext",
+    "html": "html\\Survival\\Hunger.html"
+  },
+  "last_scraped": "2025-10-30T04:13:44Z"
 }

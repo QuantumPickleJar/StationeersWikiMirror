@@ -1,297 +1,558 @@
 [
   {
     "title": "Stationeers",
+    "source_url": "https://stationeers.fandom.com/wiki/Stationeers",
     "categories": [
-      "Category:Stationeers"
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Stationeers.md",
+      "wikitext": "raw\\Stationeers.wikitext",
+      "html": "html\\Stationeers.html"
+    },
+    "last_scraped": "2025-10-30T04:12:38Z"
   },
   {
     "title": "Colony",
+    "source_url": "https://stationeers.fandom.com/wiki/Colony",
     "categories": [
-      "Category:Stationeers"
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Colony.md",
+      "wikitext": "raw\\Colony.wikitext",
+      "html": "html\\Colony.html"
+    },
+    "last_scraped": "2025-10-30T04:12:40Z"
   },
   {
     "title": "Current build",
+    "source_url": "https://stationeers.fandom.com/wiki/Current_build",
     "categories": [
-      "Category:Stationeers"
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Current build.md",
+      "wikitext": "raw\\Current build.wikitext",
+      "html": "html\\Current build.html"
+    },
+    "last_scraped": "2025-10-30T04:12:42Z"
   },
   {
     "title": "How to Play Guide for Stationeers",
+    "source_url": "https://stationeers.fandom.com/wiki/How_to_Play_Guide_for_Stationeers",
     "categories": [
-      "Category:Stationeers"
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\How to Play Guide for Stationeers.md",
+      "wikitext": "raw\\How to Play Guide for Stationeers.wikitext",
+      "html": "html\\How to Play Guide for Stationeers.html"
+    },
+    "last_scraped": "2025-10-30T04:12:45Z"
   },
   {
     "title": "Planets",
+    "source_url": "https://stationeers.fandom.com/wiki/Planets",
     "categories": [
-      "Category:Exploration",
-      "Category:Stationeers"
+      "Exploration",
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Planets.md",
+      "wikitext": "raw\\Planets.wikitext",
+      "html": "html\\Planets.html"
+    },
+    "last_scraped": "2025-10-30T04:12:48Z"
   },
   {
     "title": "Release date",
+    "source_url": "https://stationeers.fandom.com/wiki/Release_date",
     "categories": [
-      "Category:Stationeers"
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Release date.md",
+      "wikitext": "raw\\Release date.wikitext",
+      "html": "html\\Release date.html"
+    },
+    "last_scraped": "2025-10-30T04:12:50Z"
   },
   {
     "title": "Shuttle",
+    "source_url": "https://stationeers.fandom.com/wiki/Shuttle",
     "categories": [
-      "Category:Exploration",
-      "Category:Stationeers"
+      "Exploration",
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Shuttle.md",
+      "wikitext": "raw\\Shuttle.wikitext",
+      "html": "html\\Shuttle.html"
+    },
+    "last_scraped": "2025-10-30T04:12:52Z"
   },
   {
     "title": "Space station",
+    "source_url": "https://stationeers.fandom.com/wiki/Space_station",
     "categories": [
-      "Category:Stationeers"
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Space station.md",
+      "wikitext": "raw\\Space station.wikitext",
+      "html": "html\\Space station.html"
+    },
+    "last_scraped": "2025-10-30T04:12:55Z"
   },
   {
     "title": "System requirements",
+    "source_url": "https://stationeers.fandom.com/wiki/System_requirements",
     "categories": [
-      "Category:Stationeers"
+      "Stationeers"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\System requirements.md",
+      "wikitext": "raw\\System requirements.wikitext",
+      "html": "html\\System requirements.html"
+    },
+    "last_scraped": "2025-10-30T04:12:57Z"
   },
   {
     "title": "Exploitation",
+    "source_url": "https://stationeers.fandom.com/wiki/Exploitation",
     "categories": [
-      "Category:Exploitation"
+      "Exploitation"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploitation\\Exploitation.md",
+      "wikitext": "raw\\Exploitation\\Exploitation.wikitext",
+      "html": "html\\Exploitation\\Exploitation.html"
+    },
+    "last_scraped": "2025-10-30T04:13:01Z"
   },
   {
     "title": "Character development",
+    "source_url": "https://stationeers.fandom.com/wiki/Character_development",
     "categories": [
-      "Category:Exploitation"
+      "Exploitation"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploitation\\Character development.md",
+      "wikitext": "raw\\Exploitation\\Character development.wikitext",
+      "html": "html\\Exploitation\\Character development.html"
+    },
+    "last_scraped": "2025-10-30T04:13:03Z"
   },
   {
     "title": "Farming",
+    "source_url": "https://stationeers.fandom.com/wiki/Farming",
     "categories": [
-      "Category:Exploitation"
+      "Exploitation"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploitation\\Farming.md",
+      "wikitext": "raw\\Exploitation\\Farming.wikitext",
+      "html": "html\\Exploitation\\Farming.html"
+    },
+    "last_scraped": "2025-10-30T04:13:06Z"
   },
   {
     "title": "Mining",
+    "source_url": "https://stationeers.fandom.com/wiki/Mining",
     "categories": [
-      "Category:Exploitation"
+      "Exploitation"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploitation\\Mining.md",
+      "wikitext": "raw\\Exploitation\\Mining.wikitext",
+      "html": "html\\Exploitation\\Mining.html"
+    },
+    "last_scraped": "2025-10-30T04:13:08Z"
   },
   {
     "title": "Random events",
+    "source_url": "https://stationeers.fandom.com/wiki/Random_events",
     "categories": [
-      "Category:Exploitation"
+      "Exploitation"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploitation\\Random events.md",
+      "wikitext": "raw\\Exploitation\\Random events.wikitext",
+      "html": "html\\Exploitation\\Random events.html"
+    },
+    "last_scraped": "2025-10-30T04:13:11Z"
   },
   {
     "title": "Services",
+    "source_url": "https://stationeers.fandom.com/wiki/Services",
     "categories": [
-      "Category:Exploitation"
+      "Exploitation"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploitation\\Services.md",
+      "wikitext": "raw\\Exploitation\\Services.wikitext",
+      "html": "html\\Exploitation\\Services.html"
+    },
+    "last_scraped": "2025-10-30T04:13:13Z"
   },
   {
     "title": "Exploration",
+    "source_url": "https://stationeers.fandom.com/wiki/Exploration",
     "categories": [
-      "Category:Exploration"
+      "Exploration"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploration\\Exploration.md",
+      "wikitext": "raw\\Exploration\\Exploration.wikitext",
+      "html": "html\\Exploration\\Exploration.html"
+    },
+    "last_scraped": "2025-10-30T04:13:17Z"
   },
   {
     "title": "Assault",
+    "source_url": "https://stationeers.fandom.com/wiki/Assault",
     "categories": [
-      "Category:Exploration"
+      "Exploration"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploration\\Assault.md",
+      "wikitext": "raw\\Exploration\\Assault.wikitext",
+      "html": "html\\Exploration\\Assault.html"
+    },
+    "last_scraped": "2025-10-30T04:13:20Z"
   },
   {
     "title": "Repair",
+    "source_url": "https://stationeers.fandom.com/wiki/Repair",
     "categories": [
-      "Category:Exploration"
+      "Exploration"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploration\\Repair.md",
+      "wikitext": "raw\\Exploration\\Repair.wikitext",
+      "html": "html\\Exploration\\Repair.html"
+    },
+    "last_scraped": "2025-10-30T04:13:22Z"
   },
   {
     "title": "Rescue",
+    "source_url": "https://stationeers.fandom.com/wiki/Rescue",
     "categories": [
-      "Category:Exploration"
+      "Exploration"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploration\\Rescue.md",
+      "wikitext": "raw\\Exploration\\Rescue.wikitext",
+      "html": "html\\Exploration\\Rescue.html"
+    },
+    "last_scraped": "2025-10-30T04:13:25Z"
   },
   {
     "title": "Resourcing",
+    "source_url": "https://stationeers.fandom.com/wiki/Resourcing",
     "categories": [
-      "Category:Exploration"
+      "Exploration"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploration\\Resourcing.md",
+      "wikitext": "raw\\Exploration\\Resourcing.wikitext",
+      "html": "html\\Exploration\\Resourcing.html"
+    },
+    "last_scraped": "2025-10-30T04:13:27Z"
   },
   {
     "title": "Scavenging",
+    "source_url": "https://stationeers.fandom.com/wiki/Scavenging",
     "categories": [
-      "Category:Exploration"
+      "Exploration"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploration\\Scavenging.md",
+      "wikitext": "raw\\Exploration\\Scavenging.wikitext",
+      "html": "html\\Exploration\\Scavenging.html"
+    },
+    "last_scraped": "2025-10-30T04:13:30Z"
   },
   {
     "title": "Transport",
+    "source_url": "https://stationeers.fandom.com/wiki/Transport",
     "categories": [
-      "Category:Exploration"
+      "Exploration"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Exploration\\Transport.md",
+      "wikitext": "raw\\Exploration\\Transport.wikitext",
+      "html": "html\\Exploration\\Transport.html"
+    },
+    "last_scraped": "2025-10-30T04:13:32Z"
   },
   {
     "title": "Building",
+    "source_url": "https://stationeers.fandom.com/wiki/Building",
     "categories": [
-      "Category:Survival"
+      "Survival"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Survival\\Building.md",
+      "wikitext": "raw\\Survival\\Building.wikitext",
+      "html": "html\\Survival\\Building.html"
+    },
+    "last_scraped": "2025-10-30T04:13:36Z"
   },
   {
     "title": "Survival",
+    "source_url": "https://stationeers.fandom.com/wiki/Survival",
     "categories": [
-      "Category:Survival"
+      "Survival"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Survival\\Survival.md",
+      "wikitext": "raw\\Survival\\Survival.wikitext",
+      "html": "html\\Survival\\Survival.html"
+    },
+    "last_scraped": "2025-10-30T04:13:39Z"
   },
   {
     "title": "Damage",
+    "source_url": "https://stationeers.fandom.com/wiki/Damage",
     "categories": [
-      "Category:Survival"
+      "Survival"
     ],
-    "templates": []
+    "templates": [],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Survival\\Damage.md",
+      "wikitext": "raw\\Survival\\Damage.wikitext",
+      "html": "html\\Survival\\Damage.html"
+    },
+    "last_scraped": "2025-10-30T04:13:41Z"
   },
   {
     "title": "Hunger",
+    "source_url": "https://stationeers.fandom.com/wiki/Hunger",
     "categories": [
-      "Category:Survival"
+      "Survival"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Survival\\Hunger.md",
+      "wikitext": "raw\\Survival\\Hunger.wikitext",
+      "html": "html\\Survival\\Hunger.html"
+    },
+    "last_scraped": "2025-10-30T04:13:44Z"
   },
   {
     "title": "Hygiene",
+    "source_url": "https://stationeers.fandom.com/wiki/Hygiene",
     "categories": [
-      "Category:Survival"
+      "Survival"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Survival\\Hygiene.md",
+      "wikitext": "raw\\Survival\\Hygiene.wikitext",
+      "html": "html\\Survival\\Hygiene.html"
+    },
+    "last_scraped": "2025-10-30T04:13:46Z"
   },
   {
     "title": "Sanity",
+    "source_url": "https://stationeers.fandom.com/wiki/Sanity",
     "categories": [
-      "Category:Survival"
+      "Survival"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Survival\\Sanity.md",
+      "wikitext": "raw\\Survival\\Sanity.wikitext",
+      "html": "html\\Survival\\Sanity.html"
+    },
+    "last_scraped": "2025-10-30T04:13:49Z"
   },
   {
     "title": "Thirst",
+    "source_url": "https://stationeers.fandom.com/wiki/Thirst",
     "categories": [
-      "Category:Survival"
+      "Survival"
     ],
     "templates": [
       {
         "name": "PAGENAME",
         "params": {}
       }
-    ]
+    ],
+    "infobox": null,
+    "tables": [],
+    "paths": {
+      "markdown": "data\\Survival\\Thirst.md",
+      "wikitext": "raw\\Survival\\Thirst.wikitext",
+      "html": "html\\Survival\\Thirst.html"
+    },
+    "last_scraped": "2025-10-30T04:13:51Z"
   }
 ]

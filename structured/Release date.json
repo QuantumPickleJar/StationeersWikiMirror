@@ -1,7 +1,16 @@
 {
   "title": "Release date",
+  "source_url": "https://stationeers.fandom.com/wiki/Release_date",
   "categories": [
-    "Category:Stationeers"
+    "Stationeers"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Release date.md",
+    "wikitext": "raw\\Release date.wikitext",
+    "html": "html\\Release date.html"
+  },
+  "last_scraped": "2025-10-30T04:12:50Z"
 }

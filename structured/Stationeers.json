@@ -1,7 +1,16 @@
 {
   "title": "Stationeers",
+  "source_url": "https://stationeers.fandom.com/wiki/Stationeers",
   "categories": [
-    "Category:Stationeers"
+    "Stationeers"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Stationeers.md",
+    "wikitext": "raw\\Stationeers.wikitext",
+    "html": "html\\Stationeers.html"
+  },
+  "last_scraped": "2025-10-30T04:12:38Z"
 }

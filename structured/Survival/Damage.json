@@ -1,7 +1,16 @@
 {
   "title": "Damage",
+  "source_url": "https://stationeers.fandom.com/wiki/Damage",
   "categories": [
-    "Category:Survival"
+    "Survival"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Survival\\Damage.md",
+    "wikitext": "raw\\Survival\\Damage.wikitext",
+    "html": "html\\Survival\\Damage.html"
+  },
+  "last_scraped": "2025-10-30T04:13:41Z"
 }

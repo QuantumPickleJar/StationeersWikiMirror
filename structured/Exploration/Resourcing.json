@@ -1,12 +1,21 @@
 {
   "title": "Resourcing",
+  "source_url": "https://stationeers.fandom.com/wiki/Resourcing",
   "categories": [
-    "Category:Exploration"
+    "Exploration"
   ],
   "templates": [
     {
       "name": "PAGENAME",
       "params": {}
     }
-  ]
+  ],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Exploration\\Resourcing.md",
+    "wikitext": "raw\\Exploration\\Resourcing.wikitext",
+    "html": "html\\Exploration\\Resourcing.html"
+  },
+  "last_scraped": "2025-10-30T04:13:27Z"
 }

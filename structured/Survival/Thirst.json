@@ -1,12 +1,21 @@
 {
   "title": "Thirst",
+  "source_url": "https://stationeers.fandom.com/wiki/Thirst",
   "categories": [
-    "Category:Survival"
+    "Survival"
   ],
   "templates": [
     {
       "name": "PAGENAME",
       "params": {}
     }
-  ]
+  ],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Survival\\Thirst.md",
+    "wikitext": "raw\\Survival\\Thirst.wikitext",
+    "html": "html\\Survival\\Thirst.html"
+  },
+  "last_scraped": "2025-10-30T04:13:51Z"
 }

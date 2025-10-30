@@ -1,12 +1,21 @@
 {
   "title": "Survival",
+  "source_url": "https://stationeers.fandom.com/wiki/Survival",
   "categories": [
-    "Category:Survival"
+    "Survival"
   ],
   "templates": [
     {
       "name": "PAGENAME",
       "params": {}
     }
-  ]
+  ],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Survival\\Survival.md",
+    "wikitext": "raw\\Survival\\Survival.wikitext",
+    "html": "html\\Survival\\Survival.html"
+  },
+  "last_scraped": "2025-10-30T04:13:39Z"
 }

@@ -1,8 +1,17 @@
 {
   "title": "Shuttle",
+  "source_url": "https://stationeers.fandom.com/wiki/Shuttle",
   "categories": [
-    "Category:Exploration",
-    "Category:Stationeers"
+    "Exploration",
+    "Stationeers"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Shuttle.md",
+    "wikitext": "raw\\Shuttle.wikitext",
+    "html": "html\\Shuttle.html"
+  },
+  "last_scraped": "2025-10-30T04:12:52Z"
 }

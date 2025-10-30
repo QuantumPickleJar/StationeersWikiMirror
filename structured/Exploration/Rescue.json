@@ -1,12 +1,21 @@
 {
   "title": "Rescue",
+  "source_url": "https://stationeers.fandom.com/wiki/Rescue",
   "categories": [
-    "Category:Exploration"
+    "Exploration"
   ],
   "templates": [
     {
       "name": "PAGENAME",
       "params": {}
     }
-  ]
+  ],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Exploration\\Rescue.md",
+    "wikitext": "raw\\Exploration\\Rescue.wikitext",
+    "html": "html\\Exploration\\Rescue.html"
+  },
+  "last_scraped": "2025-10-30T04:13:25Z"
 }

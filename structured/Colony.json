@@ -1,7 +1,16 @@
 {
   "title": "Colony",
+  "source_url": "https://stationeers.fandom.com/wiki/Colony",
   "categories": [
-    "Category:Stationeers"
+    "Stationeers"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\Colony.md",
+    "wikitext": "raw\\Colony.wikitext",
+    "html": "html\\Colony.html"
+  },
+  "last_scraped": "2025-10-30T04:12:40Z"
 }

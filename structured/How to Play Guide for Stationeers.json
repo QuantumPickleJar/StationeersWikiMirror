@@ -1,7 +1,16 @@
 {
   "title": "How to Play Guide for Stationeers",
+  "source_url": "https://stationeers.fandom.com/wiki/How_to_Play_Guide_for_Stationeers",
   "categories": [
-    "Category:Stationeers"
+    "Stationeers"
   ],
-  "templates": []
+  "templates": [],
+  "infobox": null,
+  "tables": [],
+  "paths": {
+    "markdown": "data\\How to Play Guide for Stationeers.md",
+    "wikitext": "raw\\How to Play Guide for Stationeers.wikitext",
+    "html": "html\\How to Play Guide for Stationeers.html"
+  },
+  "last_scraped": "2025-10-30T04:12:45Z"
 }
