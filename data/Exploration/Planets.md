@@ -1,0 +1,5 @@
+right|300px|thumb|Rezzed slide
+Planets will be explorable environments in Stationeers. However, they are not implemented in the current build.
+
+Category:Exploration
+Category:Stationeers

@@ -1,0 +1,22 @@
+ is one of the four pillars of gameplay in Stationeers. 
+
+Overview
+Survival centers on maintaining the character’s vital conditions, including Damage, hunger, thirst, sanity, hygiene, Oxygen.
+
+Damage can result from various sources, including environmental hazards such as explosions or fire, as well as neglecting essential physiological needs such as oxygen supply, hydration, or nutrition.
+
+Breathing and Asphyxiation:
+
+Adequate oxygen intake alone does not ensure safe respiration. To prevent asphyxiation, the breathing gas must meet the following conditions:
+
+ The oxygen fraction should be at least 16kPa
+ The total pressure should range between 21kPa to 101 kPa
+ The temperature should remain approximately 20 °C to 40 °C.
+ The atmosphere should be free of toxic gases such as pollutants or volatiles. Inert gases (e.g., nitrogen) are generally safe, and certain gases can be tolerance as long as Oxygen level is at least 16kPa of the total pressure.
+
+Hunger: On standard start conditions, player are equip with 1 Cereal Bar Bag (contain 6 bar) in the landing pot and 2 Cereal Bar Box (each also contain 6 bar) inside the Survival Container on Lander MKII. That can last for one week. It's advise to set up a planting room as plant can take a while to grow and be process into food.
+
+Thirst: On standard start conditions, player are equip with Water Bottle Bag (contain 4 water bottle at 100%)  in landing pot and 1  Water Bottle Box (also contain 4 water bottle) in Survival Container on Lander MKII.
+
+Note: On normal difficulty, Eating and drinking through Helmet is disabled. It's advisable for player to set a breathable room with enough Oxygen, allowed player to open the helmet and consume food and drink.
+ 

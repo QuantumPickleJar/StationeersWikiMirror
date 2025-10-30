@@ -1,0 +1,11 @@
+ is one of the four pillars of gameplay in Stationeers, this game loop allows astronauts to undertake away missions to gather resources or complete tasks for non-player characters. The rewards go towards building and exploitation. It does not exist at this point in time, and all articles in this sub-category are from the imaginations of authors on this site.
+
+Overview
+There are four primary kinds of missions available 
+ Scavenging: Salvaging derelict space stations.
+ Resourcing: Exploiting resources from asteroid belts and other resource-rich locations.
+ Assault: Clear stations of aliens.
+ Rescue: Provide medical treatment to injured NPCs.
+ Transport: Move characters or cargo from one location to another.
+ Repair: Conduct repairs at the target location.
+ 
