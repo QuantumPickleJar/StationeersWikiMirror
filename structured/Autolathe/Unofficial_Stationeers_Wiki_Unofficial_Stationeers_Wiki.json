@@ -1,0 +1,485 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/Autolathe/Recipes",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Autolathe/Recipes"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 5,
+      "text": ""
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "These are all of the Autolathe recipes in the game. The recipes have been automatically scraped from the game files that can be found here: [...]/Stationeers/rocketstation_Data/StreamingAssets/Data/autolathe.xml Please only modfify links in this template. If you want bigger changes please post themn in the discussion page."
+      ],
+      "rows": []
+    },
+    {
+      "caption": null,
+      "headers": [
+        "Item",
+        "Tier",
+        "Input"
+      ],
+      "rows": [
+        {
+          "Item": "Iron Frames",
+          "Tier": "Tier One",
+          "Input": "4 200 4"
+        },
+        {
+          "Item": "Iron Sheets",
+          "Tier": "Tier One",
+          "Input": "1 200 1"
+        },
+        {
+          "Item": "Plastic Sheets",
+          "Tier": "Tier One",
+          "Input": "1 200 0,5"
+        },
+        {
+          "Item": "Glass Sheets",
+          "Tier": "Tier One",
+          "Input": "1 500 2"
+        },
+        {
+          "Item": "Stellite Glass Sheets",
+          "Tier": "Tier One",
+          "Input": "1 500 2 1"
+        },
+        {
+          "Item": "Steel Sheets",
+          "Tier": "Tier One",
+          "Input": "3 500 0,5"
+        },
+        {
+          "Item": "Steel Frames",
+          "Tier": "Tier One",
+          "Input": "7 800 2"
+        },
+        {
+          "Item": "Kit (Wall Iron)",
+          "Tier": "Tier One",
+          "Input": "1 200 1"
+        },
+        {
+          "Item": "Kit (Railing)",
+          "Tier": "Tier One",
+          "Input": "1 100 1"
+        },
+        {
+          "Item": "Kit (Composite Cladding)",
+          "Tier": "Tier One",
+          "Input": "1 200 1"
+        },
+        {
+          "Item": "Kit (Wall)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Reinforced Windows)",
+          "Tier": "Tier One",
+          "Input": "7 700 2"
+        },
+        {
+          "Item": "Kit (Window Shutter)",
+          "Tier": "Tier One",
+          "Input": "7 500 1 2"
+        },
+        {
+          "Item": "Kit (Ladder)",
+          "Tier": "Tier One",
+          "Input": "3 200 2"
+        },
+        {
+          "Item": "Kit (Pipe)",
+          "Tier": "Tier One",
+          "Input": "5 200 0,5"
+        },
+        {
+          "Item": "Cable Coil",
+          "Tier": "Tier One",
+          "Input": "5 200 0,5"
+        },
+        {
+          "Item": "Kit (Furnace)",
+          "Tier": "Tier One",
+          "Input": "120 12000 10 30"
+        },
+        {
+          "Item": "Kit (Arc Furnace)",
+          "Tier": "Tier One",
+          "Input": "60 6000 5 20"
+        },
+        {
+          "Item": "Kit (Electronics Printer)",
+          "Tier": "Tier One",
+          "Input": "120 12000 10 2 20"
+        },
+        {
+          "Item": "Kit (Rocket Manufactory)",
+          "Tier": "Tier One",
+          "Input": "120 12000 10 2 20"
+        },
+        {
+          "Item": "Kit (Security Printer)",
+          "Tier": "Tier One",
+          "Input": "180 36000 20 20 20"
+        },
+        {
+          "Item": "Kit (Blast Door)",
+          "Tier": "Tier Two",
+          "Input": "10 500 3 15"
+        },
+        {
+          "Item": "Kit (Furniture)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 20"
+        },
+        {
+          "Item": "Kit (Tables)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 20"
+        },
+        {
+          "Item": "Kit (Chairs)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 20"
+        },
+        {
+          "Item": "Kit (Beds)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 20"
+        },
+        {
+          "Item": "Kit (Sorter)",
+          "Tier": "Tier One",
+          "Input": "10 500 5 1 10"
+        },
+        {
+          "Item": "Kit (Hydraulic Pipe Bender)",
+          "Tier": "Tier One",
+          "Input": "180 18000 10 2 20"
+        },
+        {
+          "Item": "Kit (Autolathe)",
+          "Tier": "Tier One",
+          "Input": "180 36000 10 2 20"
+        },
+        {
+          "Item": "Kit (Door)",
+          "Tier": "Tier One",
+          "Input": "10 500 3 7"
+        },
+        {
+          "Item": "Kit (Interior Doors)",
+          "Tier": "Tier One",
+          "Input": "10 500 3 5"
+        },
+        {
+          "Item": "Wall Light",
+          "Tier": "Tier One",
+          "Input": "10 500 2 1 1"
+        },
+        {
+          "Item": "Kit (Wall Arch)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Wall Flat)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Wall Geometry)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "File:ItemKitWallPadded.png Kit (Wall Padded)",
+          "Tier": "Tier One",
+          "Input": "5 500 1"
+        },
+        {
+          "Item": "Kit (Locker)",
+          "Tier": "Tier One",
+          "Input": "10 500 5"
+        },
+        {
+          "Item": "Kit (Sign)",
+          "Tier": "Tier One",
+          "Input": "5 100 3"
+        },
+        {
+          "Item": "Kit (Stairs)",
+          "Tier": "Tier One",
+          "Input": "20 500 15"
+        },
+        {
+          "Item": "Kit (Stairwell)",
+          "Tier": "Tier One",
+          "Input": "20 6000 15"
+        },
+        {
+          "Item": "Kit (Stacker)",
+          "Tier": "Tier One",
+          "Input": "10 500 2 10"
+        },
+        {
+          "Item": "Empty Can",
+          "Tier": "Tier One",
+          "Input": "1 70 1"
+        },
+        {
+          "Item": "Cardboard Box",
+          "Tier": "Tier One",
+          "Input": "2 120 2"
+        },
+        {
+          "Item": "Kit_(Chutes)",
+          "Tier": "Tier One",
+          "Input": "5 500 3"
+        },
+        {
+          "Item": "Kit (Powered Chutes)",
+          "Tier": "Tier One",
+          "Input": "5 500 2 2 3"
+        },
+        {
+          "Item": "Kit (SDB Hopper)",
+          "Tier": "Tier One",
+          "Input": "10 700 15"
+        },
+        {
+          "Item": "Kit (SDB Silo)",
+          "Tier": "Tier One",
+          "Input": "120 24000 10 20 15"
+        },
+        {
+          "Item": "Kit (Composite Floor Grating)",
+          "Tier": "Tier One",
+          "Input": "3 500 1"
+        },
+        {
+          "Item": "Kit (Tool Manufactory)",
+          "Tier": "Tier One",
+          "Input": "120 24000 10 20"
+        },
+        {
+          "Item": "Kit (Recycler)",
+          "Tier": "Tier One",
+          "Input": "60 12000 10 20"
+        },
+        {
+          "Item": "Kit (Centrifuge)",
+          "Tier": "Tier One",
+          "Input": "60 18000 5 20"
+        },
+        {
+          "Item": "Kit (Combustion Centrifuge)",
+          "Tier": "Tier Two",
+          "Input": "120 24000 5 10 20"
+        },
+        {
+          "Item": "Kit (Deep Miner)",
+          "Tier": "Tier Two",
+          "Input": "180 72000 5 5 10 50"
+        },
+        {
+          "Item": "Kit (Crate Mount)",
+          "Tier": "Tier One",
+          "Input": "10 500 10"
+        },
+        {
+          "Item": "Kit (Crate)",
+          "Tier": "Tier One",
+          "Input": "10 200 10"
+        },
+        {
+          "Item": "Kit (Crate MkII)",
+          "Tier": "Tier Two",
+          "Input": "10 200 5 10"
+        },
+        {
+          "Item": "Space Helmet",
+          "Tier": "Tier One",
+          "Input": "15 500 2 2"
+        },
+        {
+          "Item": "Eva Suit",
+          "Tier": "Tier One",
+          "Input": "15 500 5 5"
+        },
+        {
+          "Item": "Egg Carton",
+          "Tier": "Tier One",
+          "Input": "10 100 2"
+        },
+        {
+          "Item": "Coffee Mug",
+          "Tier": "Tier One",
+          "Input": "1 70 1"
+        },
+        {
+          "Item": "Kit (Flag ODA)",
+          "Tier": "Tier One",
+          "Input": "5 100 8"
+        },
+        {
+          "Item": "Kit (Respawn Point Wall Mounted)",
+          "Tier": "Tier One",
+          "Input": "20 500 1 3"
+        },
+        {
+          "Item": "Kit (Access Bridge)",
+          "Tier": "Tier One",
+          "Input": "30 15000 2 2 10"
+        },
+        {
+          "Item": "Update 0.2.4677.21598 - Thu 21/12/2023 /Recipes"
+        }
+      ]
+    }
+  ],
+  "infobox": null,
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "Autolathe/Recipes",
+    "og:url": "https://stationeers-wiki.com/Autolathe/Recipes"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Autolathe",
+    "https://stationeers-wiki.com/Autolathe/Recipes",
+    "https://stationeers-wiki.com/Basic_Chutes",
+    "https://stationeers-wiki.com/Cable_Coil",
+    "https://stationeers-wiki.com/Cardboard_Box",
+    "https://stationeers-wiki.com/Coffee_Mug",
+    "https://stationeers-wiki.com/Egg_Carton",
+    "https://stationeers-wiki.com/Empty_Can",
+    "https://stationeers-wiki.com/Energy",
+    "https://stationeers-wiki.com/Eva_Suit",
+    "https://stationeers-wiki.com/Glass_Sheets",
+    "https://stationeers-wiki.com/Ingot_(Constantan)",
+    "https://stationeers-wiki.com/Ingot_(Copper)",
+    "https://stationeers-wiki.com/Ingot_(Electrum)",
+    "https://stationeers-wiki.com/Ingot_(Gold)",
+    "https://stationeers-wiki.com/Ingot_(Invar)",
+    "https://stationeers-wiki.com/Ingot_(Iron)",
+    "https://stationeers-wiki.com/Ingot_(Silicon)",
+    "https://stationeers-wiki.com/Ingot_(Solder)",
+    "https://stationeers-wiki.com/Ingot_(Steel)",
+    "https://stationeers-wiki.com/Ingot_(Stellite)",
+    "https://stationeers-wiki.com/Iron_Frames",
+    "https://stationeers-wiki.com/Iron_Sheets",
+    "https://stationeers-wiki.com/Kit_(Access_Bridge)",
+    "https://stationeers-wiki.com/Kit_(Arc_Furnace)",
+    "https://stationeers-wiki.com/Kit_(Arch_Wall)",
+    "https://stationeers-wiki.com/Kit_(Autolathe)",
+    "https://stationeers-wiki.com/Kit_(Beds)",
+    "https://stationeers-wiki.com/Kit_(Blast_Door)",
+    "https://stationeers-wiki.com/Kit_(Centrifuge)",
+    "https://stationeers-wiki.com/Kit_(Chairs)",
+    "https://stationeers-wiki.com/Kit_(Combustion_Centrifuge)",
+    "https://stationeers-wiki.com/Kit_(Composite_Cladding)",
+    "https://stationeers-wiki.com/Kit_(Composite_Floor_Grating)",
+    "https://stationeers-wiki.com/Kit_(Crate)",
+    "https://stationeers-wiki.com/Kit_(Crate_MkII)",
+    "https://stationeers-wiki.com/Kit_(Crate_Mount)",
+    "https://stationeers-wiki.com/Kit_(Deep_Miner)",
+    "https://stationeers-wiki.com/Kit_(Door)",
+    "https://stationeers-wiki.com/Kit_(Electronics_Printer)",
+    "https://stationeers-wiki.com/Kit_(Flag_ODA)",
+    "https://stationeers-wiki.com/Kit_(Flat_Wall)",
+    "https://stationeers-wiki.com/Kit_(Furnace)",
+    "https://stationeers-wiki.com/Kit_(Furniture)",
+    "https://stationeers-wiki.com/Kit_(Geometry_Wall)",
+    "https://stationeers-wiki.com/Kit_(Hydraulic_Pipe_Bender)",
+    "https://stationeers-wiki.com/Kit_(Interior_Doors)",
+    "https://stationeers-wiki.com/Kit_(Iron_Wall)",
+    "https://stationeers-wiki.com/Kit_(Ladder)",
+    "https://stationeers-wiki.com/Kit_(Locker)",
+    "https://stationeers-wiki.com/Kit_(Padded_Wall)",
+    "https://stationeers-wiki.com/Kit_(Pipe)",
+    "https://stationeers-wiki.com/Kit_(Railing)",
+    "https://stationeers-wiki.com/Kit_(Recycler)",
+    "https://stationeers-wiki.com/Kit_(Reinforced_Windows)",
+    "https://stationeers-wiki.com/Kit_(Respawn_Point_Wall_Mounted)",
+    "https://stationeers-wiki.com/Kit_(Rocket_Manufactory)",
+    "https://stationeers-wiki.com/Kit_(SDB_Hopper)",
+    "https://stationeers-wiki.com/Kit_(SDB_Silo)",
+    "https://stationeers-wiki.com/Kit_(Security_Printer)",
+    "https://stationeers-wiki.com/Kit_(Sign)",
+    "https://stationeers-wiki.com/Kit_(Sorter)",
+    "https://stationeers-wiki.com/Kit_(Stacker)",
+    "https://stationeers-wiki.com/Kit_(Stairs)",
+    "https://stationeers-wiki.com/Kit_(Stairwell)",
+    "https://stationeers-wiki.com/Kit_(Tables)",
+    "https://stationeers-wiki.com/Kit_(Tool_Manufactory)",
+    "https://stationeers-wiki.com/Kit_(Wall)",
+    "https://stationeers-wiki.com/Kit_(Window_Shutter)",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Plastic_Sheets",
+    "https://stationeers-wiki.com/Powered_Chutes",
+    "https://stationeers-wiki.com/Space_Helmet",
+    "https://stationeers-wiki.com/Special:Categories",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Autolathe/Recipes",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:UploadWizard?wpDestFile=ItemKitWallPadded.png",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Autolathe/Recipes",
+    "https://stationeers-wiki.com/Steel_Frames",
+    "https://stationeers-wiki.com/Steel_Sheets",
+    "https://stationeers-wiki.com/Stellite_Glass_Sheets",
+    "https://stationeers-wiki.com/Talk:Autolathe/Recipes",
+    "https://stationeers-wiki.com/Time",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/Wall_Light",
+    "https://stationeers-wiki.com/index.php?title=Autolathe/Recipes&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Autolathe/Recipes&action=history",
+    "https://stationeers-wiki.com/index.php?title=Autolathe/Recipes&action=info",
+    "https://stationeers-wiki.com/index.php?title=Autolathe/Recipes&oldid=22629",
+    "https://stationeers-wiki.com/index.php?title=Autolathe/Recipes&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=Category:Pages_with_broken_file_links&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Access_Bridge)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Arch_Wall)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Beds)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Composite_Floor_Grating)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Crate_MkII)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Crate_Mount)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Flag_ODA)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Geometry_Wall)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Reinforced_Windows)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Respawn_Point_Wall_Mounted)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Window_Shutter)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Autolathe%2FRecipes",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\Autolathe\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.md",
+    "html": "html\\Autolathe\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.html"
+  },
+  "last_scraped": "2025-10-30T04:26:19+00:00"
+}

@@ -1,0 +1,289 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/User:TheNicestGuy/Science",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "TheNicestGuy/Science"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Measurement [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Mass [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Moles [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Volume [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Temperature [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Pressure, Absolute [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Pressure, Differential [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Phase [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Metallurgy [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Physiology [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Botany [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Ornithology [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Energy [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 3,
+      "text": "Direct Measurement [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Implications [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Moles Versus Mass [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Direct Measurement [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Implications [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Direct Measurement [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Implications [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Direct Measurement [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Implications [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Implications [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "Comparison to Real Formulas [ edit ]"
+    },
+    {
+      "level": 4,
+      "text": "User"
+    },
+    {
+      "level": 5,
+      "text": ""
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Alloy",
+        "Stationeers Formula",
+        "Real Formula",
+        "Remarks"
+      ],
+      "rows": [
+        {
+          "Alloy": "Steel",
+          "Stationeers Formula": "75% iron + 25% carbon",
+          "Real Formula": "mostly iron + < 2.2% carbon + others",
+          "Remarks": "Real steel comes in many varieties for different purposes, all with different iron-carbon ratios and additives. Stainless steel, tool steel, and spring steel name just a few wide classes."
+        },
+        {
+          "Alloy": "Electrum",
+          "Stationeers Formula": "50% silver + 50% gold",
+          "Real Formula": "20%~80% silver + 20%~80% gold",
+          "Remarks": "Real electrum is one of Earth's few naturally-occurring alloys. Natural deposits vary widely in their ratios, and other elements can be included."
+        },
+        {
+          "Alloy": "Invar",
+          "Stationeers Formula": "50% iron + 50% nickel",
+          "Real Formula": "64% iron + 36% nickel",
+          "Remarks": "Real invar is used when an object needs to precisely keep its size and shape as its temperature changes."
+        },
+        {
+          "Alloy": "Constantan",
+          "Stationeers Formula": "50% copper + 50% nickel",
+          "Real Formula": "about 55% copper + 45% nickel",
+          "Remarks": "Real constantan is used when an object needs to precisely keep its electrical resistivity as its temperature changes."
+        },
+        {
+          "Alloy": "Solder",
+          "Stationeers Formula": "50% iron + 50% lead",
+          "Real Formula": "varies",
+          "Remarks": "In the real world, \"solder\" describes many different materials that are very different from one another in composition. They all melt at low temperatures, solidify at room temperature, and are used to bond objects together, but the varieties used for electrical circuits, plumbing parts, and jewelry are each tailored for their applications. \"Classic\" solder is a mixture of lead and tin , but modern solder often contains no lead (as it's toxic). Iron is not a typical solder ingredient. (However, the tool used to melt and apply solder is generally called an \"iron\", whatever it's made of.)"
+        },
+        {
+          "Alloy": "Astroloy",
+          "Stationeers Formula": "50% iron + 25% copper + 25% cobalt",
+          "Real Formula": "mostly nickel + 17% cobalt + 15% chromium + molybdenum, aluminum, titanium, and others",
+          "Remarks": "Real Astroloy was developed for specialized aerospace uses, such as jet engine turbines."
+        },
+        {
+          "Alloy": "Hastelloy",
+          "Stationeers Formula": "50% nickel + 25% silver + 25% cobalt",
+          "Real Formula": "C-276 formula: mostly nickel + > 17% molybdenum + > 14.5% chromium + iron, tungsten, cobalt, and others",
+          "Remarks": "The various real formulas for Hastelloy are all nickel based. They are used in chemical processing systems for their corrosion resistance."
+        },
+        {
+          "Alloy": "Inconel",
+          "Stationeers Formula": "50% nickel + 25% gold + 25% iron",
+          "Real Formula": "625 formula: mostly nickel + > 20% chromium + > 8% molybdenum + niobium, tantalum, and others",
+          "Remarks": "The various real formulas for Inconel are all nickel-chromium based. They are used because they are self-protecting against corrosion and oxidation at high temperatures, along with being physically strong."
+        },
+        {
+          "Alloy": "Waspaloy",
+          "Stationeers Formula": "50% nickel + 25% lead + 25% silver",
+          "Real Formula": "mostly nickel + 19% chromium + 13% cobalt + molybdenum, titanium, aluminum, and others",
+          "Remarks": "Real Waspaloy is used in demanding high-temperature applications, such as jet engines."
+        },
+        {
+          "Alloy": "Stellite",
+          "Stationeers Formula": "50% cobalt + 25% silver + 25% silicon",
+          "Real Formula": "Stellite 1 formula: mostly cobalt + > 28% chromium + > 11% tungsten + carbon, silicon, iron, nickel, and others",
+          "Remarks": "Real Stellite is used for hard-wearing applications, such as power tool faces and cutlery."
+        }
+      ]
+    }
+  ],
+  "infobox": null,
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "TheNicestGuy/Science",
+    "og:url": "https://stationeers-wiki.com/User:TheNicestGuy/Science"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Atmosphere",
+    "https://stationeers-wiki.com/Battery_Cell#Nuclear_Cell",
+    "https://stationeers-wiki.com/Cartridge",
+    "https://stationeers-wiki.com/Category:Gas",
+    "https://stationeers-wiki.com/Category:Ingot",
+    "https://stationeers-wiki.com/Category:Ore",
+    "https://stationeers-wiki.com/Centrifuge",
+    "https://stationeers-wiki.com/EVA_Suit",
+    "https://stationeers-wiki.com/Fuel",
+    "https://stationeers-wiki.com/Furnace",
+    "https://stationeers-wiki.com/Furnace#Recipes",
+    "https://stationeers-wiki.com/Gas_Canister",
+    "https://stationeers-wiki.com/Handheld_Tablet",
+    "https://stationeers-wiki.com/Kit_(Atmospherics)_Air_Conditioner",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Pipe",
+    "https://stationeers-wiki.com/Pipe_Analyzer",
+    "https://stationeers-wiki.com/Pipe_Gas_Mixer",
+    "https://stationeers-wiki.com/Pipe_Radiator",
+    "https://stationeers-wiki.com/Pipes",
+    "https://stationeers-wiki.com/Portable_Tank",
+    "https://stationeers-wiki.com/Reagent_Mix",
+    "https://stationeers-wiki.com/Reagent_Processor",
+    "https://stationeers-wiki.com/Soy_Oil",
+    "https://stationeers-wiki.com/Special:Contributions/TheNicestGuy",
+    "https://stationeers-wiki.com/Special:Log/TheNicestGuy",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/User:TheNicestGuy/Science",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:UserRights/TheNicestGuy",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/User:TheNicestGuy/Science",
+    "https://stationeers-wiki.com/Tank",
+    "https://stationeers-wiki.com/Tank#Large_Tank",
+    "https://stationeers-wiki.com/Tank#Small_Tank",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/User:TheNicestGuy/Science",
+    "https://stationeers-wiki.com/Volatiles",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=User%3ATheNicestGuy%2FScience",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=1",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=10",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=11",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=12",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=13",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=14",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=15",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=16",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=17",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=18",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=19",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=2",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=20",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=21",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=22",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=23",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=24",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=3",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=4",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=5",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=6",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=7",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=8",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=edit&section=9",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=history",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&action=info",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&oldid=9679",
+    "https://stationeers-wiki.com/index.php?title=User:TheNicestGuy/Science&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=User_talk:TheNicestGuy/Science&action=edit&redlink=1",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\User_TheNicestGuy\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.md",
+    "html": "html\\User_TheNicestGuy\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.html"
+  },
+  "last_scraped": "2025-10-30T04:23:42+00:00"
+}

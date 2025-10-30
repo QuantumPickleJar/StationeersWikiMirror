@@ -1,0 +1,103 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/Wrench/en",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Wrench"
+    },
+    {
+      "level": 2,
+      "text": "Description"
+    },
+    {
+      "level": 2,
+      "text": "Use"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 5,
+      "text": ""
+    }
+  ],
+  "tables": [],
+  "infobox": {
+    "type": "table",
+    "rows": [
+      {
+        "field": "Stacks",
+        "value": "No"
+      },
+      {
+        "field": "Created With",
+        "value": "Fabricator , Tool Manufacturer"
+      },
+      {
+        "field": "Cost",
+        "value": "3g Iron"
+      }
+    ]
+  },
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "Wrench/en",
+    "og:url": "https://stationeers-wiki.com/Wrench/en"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Category:Infobox_without_prefab_data",
+    "https://stationeers-wiki.com/Category:Itembox_with_old_style_recipe",
+    "https://stationeers-wiki.com/Category:Items",
+    "https://stationeers-wiki.com/Category:Tools",
+    "https://stationeers-wiki.com/Fabricator",
+    "https://stationeers-wiki.com/File:ItemWrench.png",
+    "https://stationeers-wiki.com/Iron_Ingot",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Pipe",
+    "https://stationeers-wiki.com/Solar_panels",
+    "https://stationeers-wiki.com/Special:Categories",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/Wrench/en",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/Wrench/en",
+    "https://stationeers-wiki.com/Starting_Gear",
+    "https://stationeers-wiki.com/Template:Itembox",
+    "https://stationeers-wiki.com/Template_talk:Itembox",
+    "https://stationeers-wiki.com/Tool_Manufacturer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/Wrench",
+    "https://stationeers-wiki.com/Wrench/en",
+    "https://stationeers-wiki.com/index.php?title=Category:Articles_which_use_infobox_templates_with_no_data_rows&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Category:Itembox_without_logic_classes&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Iron_frame&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Special:Translate&group=page-Wrench&language=en&action=page&filter=",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=Wrench%2Fen",
+    "https://stationeers-wiki.com/index.php?title=Talk:Wrench/en&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Template:Itembox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Wrench/en&action=edit",
+    "https://stationeers-wiki.com/index.php?title=Wrench/en&action=history",
+    "https://stationeers-wiki.com/index.php?title=Wrench/en&action=info",
+    "https://stationeers-wiki.com/index.php?title=Wrench/en&oldid=1936",
+    "https://stationeers-wiki.com/index.php?title=Wrench/en&printable=yes",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\Wrench\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.md",
+    "html": "html\\Wrench\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.html"
+  },
+  "last_scraped": "2025-10-30T04:22:50+00:00"
+}

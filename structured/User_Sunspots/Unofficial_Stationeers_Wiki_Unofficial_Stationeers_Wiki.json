@@ -1,0 +1,1052 @@
+{
+  "title": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki",
+  "source_url": "https://stationeers-wiki.com/User:Sunspots/sandbox",
+  "depth": 1,
+  "headings": [
+    {
+      "level": 1,
+      "text": "Unofficial Stationeers Wiki Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 2,
+      "text": "Sunspots/sandbox"
+    },
+    {
+      "level": 2,
+      "text": "Item box with recipe variants ---> [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Projects [ edit ]"
+    },
+    {
+      "level": 2,
+      "text": "Item Hashes [ edit ]"
+    },
+    {
+      "level": 3,
+      "text": "From Unofficial Stationeers Wiki"
+    },
+    {
+      "level": 4,
+      "text": "User"
+    },
+    {
+      "level": 5,
+      "text": "< User:Sunspots"
+    }
+  ],
+  "tables": [
+    {
+      "caption": null,
+      "headers": [
+        "Prefab Name",
+        "English Name",
+        "Hash"
+      ],
+      "rows": [
+        {
+          "Prefab Name": "ItemEggCarton",
+          "English Name": "Egg Carton",
+          "Hash": "-524289310"
+        },
+        {
+          "Prefab Name": "ApplianceChemistryStation",
+          "English Name": "Chemistry Station",
+          "Hash": "1365789392"
+        },
+        {
+          "Prefab Name": "ApplianceMicrowave",
+          "English Name": "Microwave",
+          "Hash": "-1136173965"
+        },
+        {
+          "Prefab Name": "ApplianceReagentProcessor",
+          "English Name": "Reagent Processor",
+          "Hash": "1260918085"
+        },
+        {
+          "Prefab Name": "CircuitboardAirControl",
+          "English Name": "Circuitboard (Air Control)",
+          "Hash": "1618019559"
+        },
+        {
+          "Prefab Name": "CircuitboardAirlockControl",
+          "English Name": "Circuitboard (Airlock Control)",
+          "Hash": "912176135"
+        },
+        {
+          "Prefab Name": "CircuitboardDoorControl",
+          "English Name": "Circuitboard (Door Control)",
+          "Hash": "855694771"
+        },
+        {
+          "Prefab Name": "CircuitboardGasDisplay",
+          "English Name": "Circuitboard (Gas Display)",
+          "Hash": "-82343730"
+        },
+        {
+          "Prefab Name": "CircuitboardModeControl",
+          "English Name": "Circuitboard (Mode Control)",
+          "Hash": "-1134148135"
+        },
+        {
+          "Prefab Name": "CircuitboardPowerControl",
+          "English Name": "Circuitboard (Power Control)",
+          "Hash": "-1923778429"
+        },
+        {
+          "Prefab Name": "CircuitboardShipDisplay",
+          "English Name": "Circuitboard (Ship Display)",
+          "Hash": "-2044446819"
+        },
+        {
+          "Prefab Name": "CircuitboardSolarControl",
+          "English Name": "Circuitboard (Solar Control)",
+          "Hash": "2020180320"
+        },
+        {
+          "Prefab Name": "CircuitboardGraphDisplay",
+          "English Name": "Circuitboard (Graph Display)",
+          "Hash": "1344368806"
+        },
+        {
+          "Prefab Name": "CircuitboardHashDisplay",
+          "English Name": "Circuitboard (Hash Display)",
+          "Hash": "1633074601"
+        },
+        {
+          "Prefab Name": "ItemActiveVent",
+          "English Name": "Active Vent",
+          "Hash": "-842048328"
+        },
+        {
+          "Prefab Name": "ItemAngleGrinder",
+          "English Name": "Angle Grinder",
+          "Hash": "201215010"
+        },
+        {
+          "Prefab Name": "ItemAreaPowerControl",
+          "English Name": "Power Controller",
+          "Hash": "1757673317"
+        },
+        {
+          "Prefab Name": "ItemBatteryCell",
+          "English Name": "Battery Cell (Small)",
+          "Hash": "700133157"
+        },
+        {
+          "Prefab Name": "ItemBatteryCellLarge",
+          "English Name": "Battery Cell (Large)",
+          "Hash": "-459827268"
+        },
+        {
+          "Prefab Name": "ItemBatteryCellNuclear",
+          "English Name": "Battery Cell (Nuclear)",
+          "Hash": "544617306"
+        },
+        {
+          "Prefab Name": "ItemBatteryCharger",
+          "English Name": "Battery Cell Charger",
+          "Hash": "-1866880307"
+        },
+        {
+          "Prefab Name": "ItemBeacon",
+          "English Name": "Tracking Beacon",
+          "Hash": "-869869491"
+        },
+        {
+          "Prefab Name": "ItemCableAnalyser",
+          "English Name": "Kit (Cable Analyzer)",
+          "Hash": "-1792787349"
+        },
+        {
+          "Prefab Name": "ItemCableCoil",
+          "English Name": "Cable Coil",
+          "Hash": "-466050668"
+        },
+        {
+          "Prefab Name": "ItemCableCoilHeavy",
+          "English Name": "Cable Coil (Heavy)",
+          "Hash": "2060134443"
+        },
+        {
+          "Prefab Name": "ItemCableFuse",
+          "English Name": "Kit (Cable Fuses)",
+          "Hash": "195442047"
+        },
+        {
+          "Prefab Name": "ItemKitCompositeFloorGrating",
+          "English Name": "Kit (Floor Grating)",
+          "Hash": "1182412869"
+        },
+        {
+          "Prefab Name": "ItemCrowbar",
+          "English Name": "Crowbar",
+          "Hash": "856108234"
+        },
+        {
+          "Prefab Name": "ItemDataDisk",
+          "English Name": "Data Disk",
+          "Hash": "1005843700"
+        },
+        {
+          "Prefab Name": "ItemDrill",
+          "English Name": "Hand Drill",
+          "Hash": "2009673399"
+        },
+        {
+          "Prefab Name": "ItemDuctTape",
+          "English Name": "Duct Tape",
+          "Hash": "-1943134693"
+        },
+        {
+          "Prefab Name": "ItemEvaSuit",
+          "English Name": "Eva Suit",
+          "Hash": "1677018918"
+        },
+        {
+          "Prefab Name": "ItemFireExtinguisher",
+          "English Name": "Fire Extinguisher",
+          "Hash": "1578288856"
+        },
+        {
+          "Prefab Name": "ItemFlashingLight",
+          "English Name": "Flashing Light",
+          "Hash": "-2107840748"
+        },
+        {
+          "Prefab Name": "ItemGasCanisterEmpty",
+          "English Name": "Canister",
+          "Hash": "42280099"
+        },
+        {
+          "Prefab Name": "ItemGasCanisterSmart",
+          "English Name": "Gas Canister (Smart)",
+          "Hash": "-668314371"
+        },
+        {
+          "Prefab Name": "ItemGasFilterCarbonDioxide",
+          "English Name": "Filter (CO2)",
+          "Hash": "1635000764"
+        },
+        {
+          "Prefab Name": "ItemGasFilterPollutants",
+          "English Name": "Filter (Pollutant)",
+          "Hash": "1915566057"
+        },
+        {
+          "Prefab Name": "ItemGasFilterNitrogen",
+          "English Name": "Filter (Nitrogen)",
+          "Hash": "632853248"
+        },
+        {
+          "Prefab Name": "ItemGasFilterOxygen",
+          "English Name": "Filter (Oxygen)",
+          "Hash": "-721824748"
+        },
+        {
+          "Prefab Name": "ItemGasFilterVolatiles",
+          "English Name": "Filter (Volatiles)",
+          "Hash": "15011598"
+        },
+        {
+          "Prefab Name": "ItemGasFilterWater",
+          "English Name": "Filter (Water)",
+          "Hash": "-1993197973"
+        },
+        {
+          "Prefab Name": "ItemGasTankStorage",
+          "English Name": "Gas Tank Storage",
+          "Hash": "-2113012215"
+        },
+        {
+          "Prefab Name": "ItemGlassSheets",
+          "English Name": "Glass Sheets",
+          "Hash": "1588896491"
+        },
+        {
+          "Prefab Name": "ItemHydroponicTray",
+          "English Name": "Hydroponic Tray",
+          "Hash": "-1193543727"
+        },
+        {
+          "Prefab Name": "ItemIronFrames",
+          "English Name": "Iron Frames",
+          "Hash": "1225836666"
+        },
+        {
+          "Prefab Name": "ItemIronSheets",
+          "English Name": "Iron Sheets",
+          "Hash": "-487378546"
+        },
+        {
+          "Prefab Name": "ItemIgniter",
+          "English Name": "Igniter",
+          "Hash": "890106742"
+        },
+        {
+          "Prefab Name": "ItemKitAirlock",
+          "English Name": "Kit (Airlock)",
+          "Hash": "964043875"
+        },
+        {
+          "Prefab Name": "ItemKitArcFurnace",
+          "English Name": "Kit (Arc Furnace)",
+          "Hash": "-98995857"
+        },
+        {
+          "Prefab Name": "ItemKitAtmospherics",
+          "English Name": "Kit (Atmospherics)",
+          "Hash": "1222286371"
+        },
+        {
+          "Prefab Name": "ItemKitAutolathe",
+          "English Name": "Kit (Autolathe)",
+          "Hash": "-1753893214"
+        },
+        {
+          "Prefab Name": "ItemKitBattery",
+          "English Name": "Kit (Battery)",
+          "Hash": "1406656973"
+        },
+        {
+          "Prefab Name": "ItemKitBlastDoor",
+          "English Name": "Kit (Blast Door)",
+          "Hash": "-1755116240"
+        },
+        {
+          "Prefab Name": "ItemKitCentrifuge",
+          "English Name": "Kit (Centrifuge)",
+          "Hash": "578182956"
+        },
+        {
+          "Prefab Name": "ItemKitChute",
+          "English Name": "Kit (Chutes)",
+          "Hash": "1025254665"
+        },
+        {
+          "Prefab Name": "ItemKitComputer",
+          "English Name": "Kit (Computer)",
+          "Hash": "1990225489"
+        },
+        {
+          "Prefab Name": "ItemKitConsole",
+          "English Name": "Kit (Consoles)",
+          "Hash": "-1241851179"
+        },
+        {
+          "Prefab Name": "ItemKitConveyor",
+          "English Name": "Kit (Conveyors)",
+          "Hash": "-581253863"
+        },
+        {
+          "Prefab Name": "ItemKitCryoTube",
+          "English Name": "Kit (Cryo Tube)",
+          "Hash": "-545234195"
+        },
+        {
+          "Prefab Name": "ItemKitDoor",
+          "English Name": "Kit (Door)",
+          "Hash": "168615924"
+        },
+        {
+          "Prefab Name": "ItemKitElectronicsPrinter",
+          "English Name": "Kit (Electronics Printer)",
+          "Hash": "-1181922382"
+        },
+        {
+          "Prefab Name": "ItemKitEngineLarge",
+          "English Name": "Kit (Engine Large)",
+          "Hash": "755302726"
+        },
+        {
+          "Prefab Name": "ItemKitEngineMedium",
+          "English Name": "Kit (Engine Medium)",
+          "Hash": "1969312177"
+        },
+        {
+          "Prefab Name": "ItemKitEngineSmall",
+          "English Name": "Kit (Engine Small)",
+          "Hash": "19645163"
+        },
+        {
+          "Prefab Name": "ItemKitFabricator",
+          "English Name": "Kit (Fabricator)",
+          "Hash": "1500664489"
+        },
+        {
+          "Prefab Name": "ItemKitFurnace",
+          "English Name": "Kit (Furnace)",
+          "Hash": "-806743925"
+        },
+        {
+          "Prefab Name": "ItemKitFurniture",
+          "English Name": "Kit (Furniture)",
+          "Hash": "1162905029"
+        },
+        {
+          "Prefab Name": "ItemKitGyroscope",
+          "English Name": "Kit (Gyroscope)",
+          "Hash": "180482893"
+        },
+        {
+          "Prefab Name": "ItemKitHydraulicPipeBender",
+          "English Name": "Kit (Hydraulic Pipe Bender)",
+          "Hash": "-2098556089"
+        },
+        {
+          "Prefab Name": "ItemKitLocker",
+          "English Name": "Kit (Locker)",
+          "Hash": "882301399"
+        },
+        {
+          "Prefab Name": "ItemKitLadder",
+          "English Name": "Kit (Ladder)",
+          "Hash": "489494578"
+        },
+        {
+          "Prefab Name": "ItemKitLogicInputOutput",
+          "English Name": "Kit (Logic I/O)",
+          "Hash": "1997293610"
+        },
+        {
+          "Prefab Name": "ItemKitLogicMemory",
+          "English Name": "Kit (Logic Memory)",
+          "Hash": "-2098214189"
+        },
+        {
+          "Prefab Name": "ItemKitLogicProcessor",
+          "English Name": "Kit (Logic Processor)",
+          "Hash": "220644373"
+        },
+        {
+          "Prefab Name": "ItemKitLogicSwitch",
+          "English Name": "Kit (Logic Switch)",
+          "Hash": "124499454"
+        },
+        {
+          "Prefab Name": "ItemKitPipe",
+          "English Name": "Kit (Pipe)",
+          "Hash": "-1619793705"
+        },
+        {
+          "Prefab Name": "ItemKitRecycler",
+          "English Name": "Kit (Recycler)",
+          "Hash": "849148192"
+        },
+        {
+          "Prefab Name": "ItemKitRegulator",
+          "English Name": "Kit (Pressure Regulator)",
+          "Hash": "1181371795"
+        },
+        {
+          "Prefab Name": "ItemKitSensor",
+          "English Name": "Kit (Sensors)",
+          "Hash": "-1776897113"
+        },
+        {
+          "Prefab Name": "ItemKitSleeper",
+          "English Name": "Kit (Sleeper)",
+          "Hash": "326752036"
+        },
+        {
+          "Prefab Name": "ItemKitSolarPanel",
+          "English Name": "Kit (Solar Panel)",
+          "Hash": "-1924492105"
+        },
+        {
+          "Prefab Name": "ItemKitSolidGenerator",
+          "English Name": "Kit (Solid Generator)",
+          "Hash": "1293995736"
+        },
+        {
+          "Prefab Name": "ItemKitGasGenerator",
+          "English Name": "Kit (Gas Fuel Generator)",
+          "Hash": "377745425"
+        },
+        {
+          "Prefab Name": "ItemKitSorter",
+          "English Name": "Kit (Sorter)",
+          "Hash": "969522478"
+        },
+        {
+          "Prefab Name": "ItemKitStacker",
+          "English Name": "Kit (Stacker)",
+          "Hash": "1013244511"
+        },
+        {
+          "Prefab Name": "ItemKitStairs",
+          "English Name": "Kit (Stairs)",
+          "Hash": "170878959"
+        },
+        {
+          "Prefab Name": "ItemKitStellarAnchor",
+          "English Name": "Kit (Stellar Anchor)",
+          "Hash": "-134410934"
+        },
+        {
+          "Prefab Name": "ItemKitSuitStorage",
+          "English Name": "Kit (Suit Storage)",
+          "Hash": "1088892825"
+        },
+        {
+          "Prefab Name": "ItemKitTank",
+          "English Name": "Kit (Tank)",
+          "Hash": "771439840"
+        },
+        {
+          "Prefab Name": "ItemKitToolManufactory",
+          "English Name": "Kit (Tool Manufactory)",
+          "Hash": "529137748"
+        },
+        {
+          "Prefab Name": "ItemKitTorpedoTube",
+          "English Name": "Kit (Torpedo Launcher)",
+          "Hash": "-655661931"
+        },
+        {
+          "Prefab Name": "ItemKitTransformer",
+          "English Name": "Kit (Transformer)",
+          "Hash": "-453039435"
+        },
+        {
+          "Prefab Name": "ItemKitTransformerSmall",
+          "English Name": "Kit (Transformer Small)",
+          "Hash": "665194284"
+        },
+        {
+          "Prefab Name": "ItemKitTurret",
+          "English Name": "Kit (Turret)",
+          "Hash": "-479012046"
+        },
+        {
+          "Prefab Name": "ItemKitWall",
+          "English Name": "Kit (Wall)",
+          "Hash": "-1826855889"
+        },
+        {
+          "Prefab Name": "ItemKitWallArch",
+          "English Name": "Kit (Arched Wall)",
+          "Hash": "1625214531"
+        },
+        {
+          "Prefab Name": "ItemKitWallFlat",
+          "English Name": "Kit (Flat Wall)",
+          "Hash": "-846838195"
+        },
+        {
+          "Prefab Name": "ItemKitWallGeometry",
+          "English Name": "Kit (Geometric Wall)",
+          "Hash": "-784733231"
+        },
+        {
+          "Prefab Name": "ItemKitWallPadded",
+          "English Name": "Kit (Padded Wall)",
+          "Hash": "-821868990"
+        },
+        {
+          "Prefab Name": "ItemKitWallIron",
+          "English Name": "Kit (Iron Wall)",
+          "Hash": "-524546923"
+        },
+        {
+          "Prefab Name": "ItemKitCompositeCladding",
+          "English Name": "Kit (Cladding)",
+          "Hash": "-1470820996"
+        },
+        {
+          "Prefab Name": "ItemLabeller",
+          "English Name": "Labeller",
+          "Hash": "-743968726"
+        },
+        {
+          "Prefab Name": "ItemMiningBelt",
+          "English Name": "Mining Belt",
+          "Hash": "-676435305"
+        },
+        {
+          "Prefab Name": "ItemMiningDrill",
+          "English Name": "Mining Drill",
+          "Hash": "1055173191"
+        },
+        {
+          "Prefab Name": "ItemPassiveVent",
+          "English Name": "Passive Vent",
+          "Hash": "238631271"
+        },
+        {
+          "Prefab Name": "ItemPickaxe",
+          "English Name": "Pickaxe",
+          "Hash": "-913649823"
+        },
+        {
+          "Prefab Name": "ItemPipeAnalyizer",
+          "English Name": "Pipe Analyser",
+          "Hash": "-767597887"
+        },
+        {
+          "Prefab Name": "ItemPipeDigitalValve",
+          "English Name": "Pipe Digital Valve",
+          "Hash": "-1532448832"
+        },
+        {
+          "Prefab Name": "ItemPipeGasMixer",
+          "English Name": "Pipe Gas Mixer",
+          "Hash": "-1134459463"
+        },
+        {
+          "Prefab Name": "ItemPipeLabel",
+          "English Name": "Pipe Label",
+          "Hash": "391769637"
+        },
+        {
+          "Prefab Name": "ItemPipeMeter",
+          "English Name": "Pipe Meter",
+          "Hash": "1207939683"
+        },
+        {
+          "Prefab Name": "ItemPipeRadiator",
+          "English Name": "Pipe Radiator",
+          "Hash": "-1796655088"
+        },
+        {
+          "Prefab Name": "ItemPipeValve",
+          "English Name": "Pipe Valve",
+          "Hash": "799323450"
+        },
+        {
+          "Prefab Name": "ItemPipeVolumePump",
+          "English Name": "Pipe Volume Pump",
+          "Hash": "-1766301997"
+        },
+        {
+          "Prefab Name": "ItemPowerConnector",
+          "English Name": "Power Connector",
+          "Hash": "839924019"
+        },
+        {
+          "Prefab Name": "ItemRoadFlare",
+          "English Name": "Road Flare",
+          "Hash": "871811564"
+        },
+        {
+          "Prefab Name": "ItemScrewdriver",
+          "English Name": "Screwdriver",
+          "Hash": "687940869"
+        },
+        {
+          "Prefab Name": "ItemSpaceHelmet",
+          "English Name": "Space Helmet",
+          "Hash": "714830451"
+        },
+        {
+          "Prefab Name": "ItemSpacepack",
+          "English Name": "Spacepack",
+          "Hash": "-1260618380"
+        },
+        {
+          "Prefab Name": "ItemSteelFrames",
+          "English Name": "Steel Frames",
+          "Hash": "-1448105779"
+        },
+        {
+          "Prefab Name": "ItemSteelSheets",
+          "English Name": "Steel Sheets",
+          "Hash": "38555961"
+        },
+        {
+          "Prefab Name": "ItemTablet",
+          "English Name": "Handheld Tablet",
+          "Hash": "-229808600"
+        },
+        {
+          "Prefab Name": "ItemTankConnector",
+          "English Name": "Tank Connector",
+          "Hash": "-1782380726"
+        },
+        {
+          "Prefab Name": "ItemToolBelt",
+          "English Name": "Tool Belt",
+          "Hash": "-355127880"
+        },
+        {
+          "Prefab Name": "ItemWallCooler",
+          "English Name": "Wall Cooler",
+          "Hash": "-1567752627"
+        },
+        {
+          "Prefab Name": "ItemWallHeater",
+          "English Name": "Wall Heater",
+          "Hash": "1880134612"
+        },
+        {
+          "Prefab Name": "ItemWallLight",
+          "English Name": "Kit (Lights)",
+          "Hash": "1108423476"
+        },
+        {
+          "Prefab Name": "ItemWeldingTorch",
+          "English Name": "Welding Torch",
+          "Hash": "-2066892079"
+        },
+        {
+          "Prefab Name": "ItemWireCutters",
+          "English Name": "Wire Cutters",
+          "Hash": "1535854074"
+        },
+        {
+          "Prefab Name": "ItemWrench",
+          "English Name": "Wrench",
+          "Hash": "-1886261558"
+        },
+        {
+          "Prefab Name": "MotherboardLogic",
+          "English Name": "Motherboard (Logic)",
+          "Hash": "502555944"
+        },
+        {
+          "Prefab Name": "MotherboardManufacturing",
+          "English Name": "Motherboard (Manufacturing)",
+          "Hash": "296034716"
+        },
+        {
+          "Prefab Name": "MotherboardSorter",
+          "English Name": "Motherboard (Sorter)",
+          "Hash": "-1908268220"
+        },
+        {
+          "Prefab Name": "UniformCommander",
+          "English Name": "Uniform Commander",
+          "Hash": "-2083426457"
+        },
+        {
+          "Prefab Name": "UniformOrangeJumpSuit",
+          "English Name": "Jump Suit (Orange)",
+          "Hash": "810053150"
+        },
+        {
+          "Prefab Name": "FireArmSMG",
+          "English Name": "Fire Arm SMG",
+          "Hash": "-86315541"
+        },
+        {
+          "Prefab Name": "SMGMagazine",
+          "English Name": "SMG Magazine",
+          "Hash": "-256607540"
+        },
+        {
+          "Prefab Name": "Handgun",
+          "English Name": "Handgun",
+          "Hash": "247238062"
+        },
+        {
+          "Prefab Name": "HandGunMagazine",
+          "English Name": "HandGunMagazine(no translation)",
+          "Hash": "-866594426"
+        },
+        {
+          "Prefab Name": "ItemAmmoBox",
+          "English Name": "Ammo Box",
+          "Hash": "-9559091"
+        },
+        {
+          "Prefab Name": "WeaponPistolEnergy",
+          "English Name": "Energy Pistol",
+          "Hash": "-385323479"
+        },
+        {
+          "Prefab Name": "WeaponRifleEnergy",
+          "English Name": "Energy Rifle",
+          "Hash": "1154745374"
+        },
+        {
+          "Prefab Name": "ItemKitOrganicsPrinter",
+          "English Name": "Kit (Organics Printer)",
+          "Hash": "313966123"
+        },
+        {
+          "Prefab Name": "ItemKitBeacon",
+          "English Name": "Kit (Beacon)",
+          "Hash": "249073136"
+        },
+        {
+          "Prefab Name": "ItemKitSecurityPrinter",
+          "English Name": "Kit (Security Printer)",
+          "Hash": "578078533"
+        },
+        {
+          "Prefab Name": "ItemKitElevator",
+          "English Name": "Kit (Elevator)",
+          "Hash": "-945806652"
+        },
+        {
+          "Prefab Name": "ItemKitCrateMount",
+          "English Name": "Kit (Container Mount)",
+          "Hash": "-551612946"
+        },
+        {
+          "Prefab Name": "ItemKitHydroponicStation",
+          "English Name": "Kit (Hydroponic Station)",
+          "Hash": "2057179799"
+        },
+        {
+          "Prefab Name": "ItemKitCrate",
+          "English Name": "Kit (Crate)",
+          "Hash": "429365598"
+        },
+        {
+          "Prefab Name": "ItemDynamicAirCon",
+          "English Name": "Kit (Portable Air Conditioner)",
+          "Hash": "1072914031"
+        },
+        {
+          "Prefab Name": "ItemDynamicScrubber",
+          "English Name": "Kit (Portable Scrubber)",
+          "Hash": "-971920158"
+        },
+        {
+          "Prefab Name": "ItemKitDynamicGenerator",
+          "English Name": "Kit (Portable Generator)",
+          "Hash": "-732720413"
+        },
+        {
+          "Prefab Name": "ItemKitVendingMachine",
+          "English Name": "Kit (Vending Machine)",
+          "Hash": "-2038384332"
+        }
+      ]
+    }
+  ],
+  "infobox": {
+    "type": "table",
+    "rows": [
+      {
+        "field": "Stacks",
+        "value": "No"
+      },
+      {
+        "field": "Created With",
+        "value": "Autolathe , Fabricator"
+      },
+      {
+        "field": "Cost",
+        "value": "20g Copper , 5g Gold , 20g Iron"
+      }
+    ]
+  },
+  "metadata": {
+    "generator": "MediaWiki 1.30.0",
+    "viewport": "width=device-width, user-scalable=yes, initial-scale=1.0",
+    "og:type": "article",
+    "og:site_name": "Unofficial Stationeers Wiki",
+    "og:title": "Sunspots/sandbox",
+    "og:url": "https://stationeers-wiki.com/User:Sunspots/sandbox"
+  },
+  "links": [
+    "https://stationeers-wiki.com/Active_Vent",
+    "https://stationeers-wiki.com/Ammo_Box",
+    "https://stationeers-wiki.com/Angle_Grinder",
+    "https://stationeers-wiki.com/Autolathe",
+    "https://stationeers-wiki.com/Battery_Cell_(Large)",
+    "https://stationeers-wiki.com/Battery_Cell_(Nuclear)",
+    "https://stationeers-wiki.com/Battery_Cell_(Small)",
+    "https://stationeers-wiki.com/Battery_Cell_Charger",
+    "https://stationeers-wiki.com/Cable_Coil",
+    "https://stationeers-wiki.com/Cable_Coil_(Heavy)",
+    "https://stationeers-wiki.com/Canister",
+    "https://stationeers-wiki.com/Category:Infobox_without_prefab_data",
+    "https://stationeers-wiki.com/Category:Itembox_with_old_style_recipe",
+    "https://stationeers-wiki.com/Category:Items",
+    "https://stationeers-wiki.com/Chemistry_Station",
+    "https://stationeers-wiki.com/Circuitboard_(Air_Control)",
+    "https://stationeers-wiki.com/Circuitboard_(Airlock_Control)",
+    "https://stationeers-wiki.com/Circuitboard_(Door_Control)",
+    "https://stationeers-wiki.com/Circuitboard_(Gas_Display)",
+    "https://stationeers-wiki.com/Circuitboard_(Graph_Display)",
+    "https://stationeers-wiki.com/Circuitboard_(Power_Control)",
+    "https://stationeers-wiki.com/Circuitboard_(Solar_Control)",
+    "https://stationeers-wiki.com/Copper",
+    "https://stationeers-wiki.com/Crowbar",
+    "https://stationeers-wiki.com/Data_Disk",
+    "https://stationeers-wiki.com/Duct_Tape",
+    "https://stationeers-wiki.com/Egg_Carton",
+    "https://stationeers-wiki.com/Energy_Pistol",
+    "https://stationeers-wiki.com/Energy_Rifle",
+    "https://stationeers-wiki.com/Eva_Suit",
+    "https://stationeers-wiki.com/Fabricator",
+    "https://stationeers-wiki.com/File:ItemKitElectronicsPrinter.png",
+    "https://stationeers-wiki.com/Filter_(Nitrogen)",
+    "https://stationeers-wiki.com/Filter_(Oxygen)",
+    "https://stationeers-wiki.com/Filter_(Pollutant)",
+    "https://stationeers-wiki.com/Filter_(Volatiles)",
+    "https://stationeers-wiki.com/Fire_Arm_SMG",
+    "https://stationeers-wiki.com/Fire_Extinguisher",
+    "https://stationeers-wiki.com/Flashing_Light",
+    "https://stationeers-wiki.com/Gas_Canister_(Smart)",
+    "https://stationeers-wiki.com/Gas_Tank_Storage",
+    "https://stationeers-wiki.com/Glass_Sheets",
+    "https://stationeers-wiki.com/Gold",
+    "https://stationeers-wiki.com/Hand_Drill",
+    "https://stationeers-wiki.com/Handgun",
+    "https://stationeers-wiki.com/Handheld_Tablet",
+    "https://stationeers-wiki.com/Hydroponic_Tray",
+    "https://stationeers-wiki.com/Igniter",
+    "https://stationeers-wiki.com/Ingot_(Copper)",
+    "https://stationeers-wiki.com/Ingot_(Gold)",
+    "https://stationeers-wiki.com/Ingot_(Iron)",
+    "https://stationeers-wiki.com/Iron",
+    "https://stationeers-wiki.com/Iron_Frames",
+    "https://stationeers-wiki.com/Iron_Sheets",
+    "https://stationeers-wiki.com/Jump_Suit_(Orange)",
+    "https://stationeers-wiki.com/Kit_(Airlock)",
+    "https://stationeers-wiki.com/Kit_(Arc_Furnace)",
+    "https://stationeers-wiki.com/Kit_(Arched_Wall)",
+    "https://stationeers-wiki.com/Kit_(Atmospherics)",
+    "https://stationeers-wiki.com/Kit_(Autolathe)",
+    "https://stationeers-wiki.com/Kit_(Battery)",
+    "https://stationeers-wiki.com/Kit_(Beacon)",
+    "https://stationeers-wiki.com/Kit_(Blast_Door)",
+    "https://stationeers-wiki.com/Kit_(Cable_Analyzer)",
+    "https://stationeers-wiki.com/Kit_(Cable_Fuses)",
+    "https://stationeers-wiki.com/Kit_(Centrifuge)",
+    "https://stationeers-wiki.com/Kit_(Chutes)",
+    "https://stationeers-wiki.com/Kit_(Cladding)",
+    "https://stationeers-wiki.com/Kit_(Computer)",
+    "https://stationeers-wiki.com/Kit_(Consoles)",
+    "https://stationeers-wiki.com/Kit_(Container_Mount)",
+    "https://stationeers-wiki.com/Kit_(Conveyors)",
+    "https://stationeers-wiki.com/Kit_(Crate)",
+    "https://stationeers-wiki.com/Kit_(Cryo_Tube)",
+    "https://stationeers-wiki.com/Kit_(Door)",
+    "https://stationeers-wiki.com/Kit_(Electronics_Printer)",
+    "https://stationeers-wiki.com/Kit_(Elevator)",
+    "https://stationeers-wiki.com/Kit_(Engine_Large)",
+    "https://stationeers-wiki.com/Kit_(Engine_Medium)",
+    "https://stationeers-wiki.com/Kit_(Engine_Small)",
+    "https://stationeers-wiki.com/Kit_(Fabricator)",
+    "https://stationeers-wiki.com/Kit_(Flat_Wall)",
+    "https://stationeers-wiki.com/Kit_(Floor_Grating)",
+    "https://stationeers-wiki.com/Kit_(Furnace)",
+    "https://stationeers-wiki.com/Kit_(Furniture)",
+    "https://stationeers-wiki.com/Kit_(Gas_Fuel_Generator)",
+    "https://stationeers-wiki.com/Kit_(Geometric_Wall)",
+    "https://stationeers-wiki.com/Kit_(Gyroscope)",
+    "https://stationeers-wiki.com/Kit_(Hydraulic_Pipe_Bender)",
+    "https://stationeers-wiki.com/Kit_(Hydroponic_Station)",
+    "https://stationeers-wiki.com/Kit_(Iron_Wall)",
+    "https://stationeers-wiki.com/Kit_(Ladder)",
+    "https://stationeers-wiki.com/Kit_(Lights)",
+    "https://stationeers-wiki.com/Kit_(Locker)",
+    "https://stationeers-wiki.com/Kit_(Logic_I/O)",
+    "https://stationeers-wiki.com/Kit_(Logic_Memory)",
+    "https://stationeers-wiki.com/Kit_(Logic_Processor)",
+    "https://stationeers-wiki.com/Kit_(Logic_Switch)",
+    "https://stationeers-wiki.com/Kit_(Organics_Printer)",
+    "https://stationeers-wiki.com/Kit_(Padded_Wall)",
+    "https://stationeers-wiki.com/Kit_(Pipe)",
+    "https://stationeers-wiki.com/Kit_(Portable_Air_Conditioner)",
+    "https://stationeers-wiki.com/Kit_(Portable_Generator)",
+    "https://stationeers-wiki.com/Kit_(Portable_Scrubber)",
+    "https://stationeers-wiki.com/Kit_(Pressure_Regulator)",
+    "https://stationeers-wiki.com/Kit_(Recycler)",
+    "https://stationeers-wiki.com/Kit_(Security_Printer)",
+    "https://stationeers-wiki.com/Kit_(Sensors)",
+    "https://stationeers-wiki.com/Kit_(Sleeper)",
+    "https://stationeers-wiki.com/Kit_(Solar_Panel)",
+    "https://stationeers-wiki.com/Kit_(Solid_Generator)",
+    "https://stationeers-wiki.com/Kit_(Sorter)",
+    "https://stationeers-wiki.com/Kit_(Stacker)",
+    "https://stationeers-wiki.com/Kit_(Stairs)",
+    "https://stationeers-wiki.com/Kit_(Stellar_Anchor)",
+    "https://stationeers-wiki.com/Kit_(Suit_Storage)",
+    "https://stationeers-wiki.com/Kit_(Tank)",
+    "https://stationeers-wiki.com/Kit_(Tool_Manufactory)",
+    "https://stationeers-wiki.com/Kit_(Transformer)",
+    "https://stationeers-wiki.com/Kit_(Transformer_Small)",
+    "https://stationeers-wiki.com/Kit_(Turret)",
+    "https://stationeers-wiki.com/Kit_(Vending_Machine)",
+    "https://stationeers-wiki.com/Kit_(Wall)",
+    "https://stationeers-wiki.com/Labeller",
+    "https://stationeers-wiki.com/Main_Page",
+    "https://stationeers-wiki.com/Microwave",
+    "https://stationeers-wiki.com/Mining_Belt",
+    "https://stationeers-wiki.com/Mining_Drill",
+    "https://stationeers-wiki.com/Motherboard_(Logic)",
+    "https://stationeers-wiki.com/Motherboard_(Manufacturing)",
+    "https://stationeers-wiki.com/Motherboard_(Sorter)",
+    "https://stationeers-wiki.com/Passive_Vent",
+    "https://stationeers-wiki.com/Pickaxe",
+    "https://stationeers-wiki.com/Pipe_Digital_Valve",
+    "https://stationeers-wiki.com/Pipe_Gas_Mixer",
+    "https://stationeers-wiki.com/Pipe_Label",
+    "https://stationeers-wiki.com/Pipe_Meter",
+    "https://stationeers-wiki.com/Pipe_Radiator",
+    "https://stationeers-wiki.com/Pipe_Valve",
+    "https://stationeers-wiki.com/Pipe_Volume_Pump",
+    "https://stationeers-wiki.com/Power",
+    "https://stationeers-wiki.com/Power_Connector",
+    "https://stationeers-wiki.com/Power_Controller",
+    "https://stationeers-wiki.com/Reagent_Processor",
+    "https://stationeers-wiki.com/Road_Flare",
+    "https://stationeers-wiki.com/SMG_Magazine",
+    "https://stationeers-wiki.com/Screwdriver",
+    "https://stationeers-wiki.com/Space_Helmet",
+    "https://stationeers-wiki.com/Spacepack",
+    "https://stationeers-wiki.com/Special:Categories",
+    "https://stationeers-wiki.com/Special:Contributions/Sunspots",
+    "https://stationeers-wiki.com/Special:Log/Sunspots",
+    "https://stationeers-wiki.com/Special:Random",
+    "https://stationeers-wiki.com/Special:RecentChanges",
+    "https://stationeers-wiki.com/Special:RecentChangesLinked/User:Sunspots/sandbox",
+    "https://stationeers-wiki.com/Special:SpecialPages",
+    "https://stationeers-wiki.com/Special:UploadWizard",
+    "https://stationeers-wiki.com/Special:UserRights/Sunspots",
+    "https://stationeers-wiki.com/Special:WhatLinksHere/User:Sunspots/sandbox",
+    "https://stationeers-wiki.com/Steel_Frames",
+    "https://stationeers-wiki.com/Steel_Sheets",
+    "https://stationeers-wiki.com/Tank_Connector",
+    "https://stationeers-wiki.com/Template:Itembox",
+    "https://stationeers-wiki.com/Template_talk:Itembox",
+    "https://stationeers-wiki.com/Tool_Belt",
+    "https://stationeers-wiki.com/Tracking_Beacon",
+    "https://stationeers-wiki.com/Uniform_Commander",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:About",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:General_disclaimer",
+    "https://stationeers-wiki.com/Unofficial_Stationeers_Wiki:Privacy_policy",
+    "https://stationeers-wiki.com/User:Sunspots",
+    "https://stationeers-wiki.com/User:Sunspots/sandbox",
+    "https://stationeers-wiki.com/User:Sunspots/sandbox/recipes",
+    "https://stationeers-wiki.com/Wall_Cooler",
+    "https://stationeers-wiki.com/Wall_Heater",
+    "https://stationeers-wiki.com/Welding_Torch",
+    "https://stationeers-wiki.com/Wire_Cutters",
+    "https://stationeers-wiki.com/Wrench",
+    "https://stationeers-wiki.com/index.php?title=Category:Itembox_without_logic_classes&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Circuitboard_(Hash_Display)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Circuitboard_(Mode_Control)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Circuitboard_(Ship_Display)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Filter_(CO2)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Filter_(Water)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=HandGunMagazine(no_translation)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Kit_(Torpedo_Launcher)&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Pipe_Analyser&action=edit&redlink=1",
+    "https://stationeers-wiki.com/index.php?title=Special:UserLogin&returnto=User%3ASunspots%2Fsandbox",
+    "https://stationeers-wiki.com/index.php?title=Template:Itembox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=User:Sunspots/sandbox&action=edit",
+    "https://stationeers-wiki.com/index.php?title=User:Sunspots/sandbox&action=edit&section=1",
+    "https://stationeers-wiki.com/index.php?title=User:Sunspots/sandbox&action=edit&section=2",
+    "https://stationeers-wiki.com/index.php?title=User:Sunspots/sandbox&action=edit&section=3",
+    "https://stationeers-wiki.com/index.php?title=User:Sunspots/sandbox&action=history",
+    "https://stationeers-wiki.com/index.php?title=User:Sunspots/sandbox&action=info",
+    "https://stationeers-wiki.com/index.php?title=User:Sunspots/sandbox&oldid=6869",
+    "https://stationeers-wiki.com/index.php?title=User:Sunspots/sandbox&printable=yes",
+    "https://stationeers-wiki.com/index.php?title=User_talk:Sunspots/sandbox&action=edit&redlink=1",
+    "https://www.mediawiki.org/"
+  ],
+  "paths": {
+    "markdown": "data\\User_Sunspots\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.md",
+    "html": "html\\User_Sunspots\\Unofficial_Stationeers_Wiki_Unofficial_Stationeers_Wiki.html"
+  },
+  "last_scraped": "2025-10-30T04:23:47+00:00"
+}
